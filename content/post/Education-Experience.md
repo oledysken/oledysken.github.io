@@ -8,6 +8,10 @@ author = "Ole Kristian Dyskeland"
 
 Current: *PhD Business Economcis* at **[Norwegian School of Economics, NHH](https://www.nhh.no/en/departments/business-and-management-science/)** .
 
+[Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) and at the [Center for Business Economics](https://www.nhh.no/en/research-centres/cbe/)
+
+Applied theory in Industrial organisation, two-sided markets, and media economics.
+
 <!--more-->
 
 ## Education

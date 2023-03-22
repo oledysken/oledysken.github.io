@@ -6,16 +6,36 @@ description = "Teaching Experience."
 
 +++
 
-Review of teaching experience.
+Review of teaching and teaching assistant experience.
 <!--more-->
 
 ## Teaching Experience
 
+#### FIE441: Taxes and Business Strategy
+
+NHH master course: Spring 2022, 2023.
+
+Course assistant: review material and organise groups
+
+Course responsible: Guttom Schelderup, [Elisa Casi-Eberhard](https://www.nhh.no/ansatte/faculty/elisa-casi/), and Simone Traini. 
+
+------
+
+#### BUS438: Strategisk organisering og konkurranse (Strategic organisation and compeittion)
+
+NHH master course: Spring 2023
+
+Course assistant: Evaluation. 
+
+Course responsible: [Øystein Foros](https://www.nhh.no/ansatte/faculty/oystein-foros/)
+
+------
+
 #### BUS400N: Styring av større foretak (Management Control)
 
-NHH master course: Autumn 2021.
+NHH master course: Autumn 2021, 2022.
 
-Course assistant for part 1, incentives. 
+Course assistant for part 1, incentives. Grading and evaluation.
 
 Course responsible: [Iver Bragelien](https://www.nhh.no/en/employees/faculty/iver-bragelien/).
 
