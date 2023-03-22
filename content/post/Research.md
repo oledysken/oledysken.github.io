@@ -1,7 +1,7 @@
 +++
 author = "Ole Kristian Dyskeland"
 title = "Research and Publications"
-date = "2021-08-29"
+date = "2021-08-30"
 description = "Publications, Working Papers and work in progess"
 
 +++

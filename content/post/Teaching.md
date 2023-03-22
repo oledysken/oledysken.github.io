@@ -1,7 +1,7 @@
 +++
 author = "Ole Kristian Dyskeland"
 title = "Teaching"
-date = "2021-08-30"
+date = "2021-08-29"
 description = "Teaching Experience."
 
 +++
