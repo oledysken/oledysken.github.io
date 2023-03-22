@@ -1,0 +1,23 @@
+baseURL = 'https://dyskeland.no/' # Hva gjør dette?
+languageCode = 'no-nb'
+title = 'Ole Kristian Dyskeland'
+
+paginate = 4
+DefaultContentLanguage = "no"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[author]
+  name = "Norwgeian School of Economics, NHH"
+  abstract = "I'm a PhD Research Scholar in Business Economics at the Department of Business and Management Science at the Norwgeian School of Economics, NHH. My primary interests are competition and industrial organisation, with a focus on platforms and media markets. I have public service experience as a mineral economist with the Norwegian Directorate of Mining with Commissioner of Mines at Svalbard (DMF) and the British Office for National Statistics (ONS)."
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
