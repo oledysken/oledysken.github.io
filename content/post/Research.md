@@ -20,7 +20,7 @@ Research and publications.
 
 #### Working Papers:
 
-Dyskeland, Ole Kristian (2020). "A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines". *SNF Working Paper No 10/2020*.
+Dyskeland, Ole Kristian (2020). "[A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines](https://beccle.no/files/2022/02/A-Study-in-Print-Competition-in-Prices-and-Quality-Between-Newspapers-and-Magazines-Dyskeland.pdf)". *SNF Working Paper No 10/2020*.
 
 ------
 
