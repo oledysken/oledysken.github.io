@@ -24,6 +24,12 @@ Dyskeland, Ole Kristian (2020). "A Study in Print: Competition in Prices and Qua
 
 ------
 
+#### Work in progress:
+
+Dyskeland, Ole Kristian, and Foros, Øystein. "Multihoming and market expansion: Effects on media platforms' pricing and content creation incentives"
+
+------
+
 #### Non-published reports
 
 Dyskeland, O.K. and Lund, J.A. (2021). "Samfunnsnytte ved gruvesikring: Samfunnsøkonomisk vurdering og utvikling av metode for kost-nytteanalyse og risikoavveiinger ved sikring av gamle gruvehull". *Directorate for Mining internal metodology report*.
