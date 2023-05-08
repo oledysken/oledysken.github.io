@@ -20,13 +20,15 @@ Research and publications.
 
 #### Working Papers:
 
+Dyskeland, Ole Kristian, and Foros, Øystein. "[Multihoming and market expansion: Effects on media platforms' pricing and content creation incentives](https://snf.no/media/ds4geutp/a06_23.pdf)". SNF Working Paper No 06/2023
+
 Dyskeland, Ole Kristian (2020). "[A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines](https://beccle.no/files/2022/02/A-Study-in-Print-Competition-in-Prices-and-Quality-Between-Newspapers-and-Magazines-Dyskeland.pdf)". *SNF Working Paper No 10/2020*.
 
 ------
 
 #### Work in progress:
 
-Dyskeland, Ole Kristian, and Foros, Øystein. "Multihoming and market expansion: Effects on media platforms' pricing and content creation incentives"
+
 
 ------
 
