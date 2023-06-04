@@ -20,7 +20,7 @@ Applied theory in Industrial organisation, two-sided markets, and media economic
 
 August 2021 -- *2025 [Expected]*
 
-Advisor: [Øystein Foros](https://www.nhh.no/en/employees/faculty/oystein-foros/), and co-advisor: [Malin Arve](https://www.nhh.no/en/employees/faculty/malin-arve/).
+Advisors: [Øystein Foros](https://www.nhh.no/en/employees/faculty/oystein-foros/), and [Malin Arve](https://www.nhh.no/en/employees/faculty/malin-arve/).
 
 ---
 #### *MSc. Economics and Business Administration* at **[Norwegian School of Economics, NHH](https://www.nhh.no/)** 
