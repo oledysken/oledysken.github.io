@@ -77,3 +77,20 @@ Summer 2016, part-time thorugh May 2017.
 
 Government Economic Service (GES) intern summer 2016 at section Prices Development. Worked on project using [web scraped daily prices](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/researchindicesusingwebscrapedpricedata/august2017update) to construct an experimental consumer price index.
 
+------
+
+------
+
+
+
+## Other experience
+### President at the [Association of Doctoral Organisations in Norway][www.stipendiat.no]
+January 2023 -- 
+The national interest organisation for PhD candidates in Norway.
+
+### President at NHHdoc, the doctoral interest organisation for PhD candidates at NHH Norwegian School of Economics
+July 2022 -- July 2023
+Representing the interests of PhD candidates at NHH
+
+## Substitute member at Kif-komiteen ([Committee for Gender Balance and Diversity in Research.][https://kifinfo.no/en/content/committee-gender-balance-and-diversity-research-kif-0]
+January 2023--December 2023
