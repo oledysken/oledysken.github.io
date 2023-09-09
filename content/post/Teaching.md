@@ -25,7 +25,7 @@ Course responsible: Guttom Schelderup, [Elisa Casi-Eberhard](https://www.nhh.no/
 
 NHH master course: Spring 2023
 
-Course assistant: Evaluation. 
+Course assistant: Evaluation. Examiner.
 
 Course responsible: [Øystein Foros](https://www.nhh.no/ansatte/faculty/oystein-foros/)
 
@@ -33,7 +33,7 @@ Course responsible: [Øystein Foros](https://www.nhh.no/ansatte/faculty/oystein-
 
 #### BUS400N: Styring av større foretak (Management Control)
 
-NHH master course: Autumn 2021, 2022.
+NHH master course: Autumn 2021, 2022, 2023.
 
 Course assistant for part 1, incentives. Grading and evaluation.
 
