@@ -84,7 +84,7 @@ Government Economic Service (GES) intern summer 2016 at section Prices Developme
 
 
 ## Other experience
-### President at the [Association of Doctoral Organisations in Norway][www.stipendiat.no]
+### President at the [Association of Doctoral Organisations in Norway](www.stipendiat.no)
 January 2023 -- 
 The national interest organisation for PhD candidates in Norway.
 
@@ -92,5 +92,5 @@ The national interest organisation for PhD candidates in Norway.
 July 2022 -- July 2023
 Representing the interests of PhD candidates at NHH
 
-## Substitute member at Kif-komiteen ([Committee for Gender Balance and Diversity in Research.][https://kifinfo.no/en/content/committee-gender-balance-and-diversity-research-kif-0]
+## Substitute member at Kif-komiteen [Committee for Gender Balance and Diversity in Research.](https://kifinfo.no/en/content/committee-gender-balance-and-diversity-research-kif-0)
 January 2023--December 2023
