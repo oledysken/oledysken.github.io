@@ -14,9 +14,9 @@ Research and publications.
 
 #### Publications:
 
-Dyskeland, Ole Kristian and Foros, Øystein (Forthcoming). ``Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives '' _Economics Letters_ DOI: https://doi.org/10.1016/j.econlet.2023.111327 (Open access)
+Dyskeland, Ole Kristian and Foros, Øystein (Forthcoming). ''Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives '' _Economics Letters_ DOI: [https://doi.org/10.1016/j.econlet.2023.111327](https://doi.org/10.1016/j.econlet.2023.111327) (Open access)
 
-- Working papers: [SNF No 06/2023][https://snf.no/media/ds4geutp/a06_23.pdf]
+- Working papers: [SNF No 06/2023](https://snf.no/media/ds4geutp/a06_23.pdf)
 
 ------
 
@@ -28,7 +28,7 @@ Dyskeland, Ole Kristian (2020). "[A Study in Print: Competition in Prices and Qu
 
 #### Work in progress:
 
-Algorithmic price competiiton with capacity constraints. Joint with [John Sæten Lilletvedt (UIB)][https://www.uib.no/en/persons/John.Sæten.Lilletvedt]
+Algorithmic price competiiton with capacity constraints. Joint with [John Sæten Lilletvedt (UIB)](https://www.uib.no/en/persons/John.Sæten.Lilletvedt)
 
 ------
 
