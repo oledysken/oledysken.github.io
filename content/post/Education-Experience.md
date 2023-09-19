@@ -88,6 +88,10 @@ Government Economic Service (GES) intern summer 2016 at section Prices Developme
 January 2023 -- 
 The national interest organisation for PhD candidates in Norway.
 
+Presentations:
+- For sector audience on Research Ethics: [Forskningsetisk forum](https://www.forskningsetikk.no/arrangementer/forskningsetisk-forum-2023-veileders-rolle/)
+- For Member organisation UiBDoc: [Representation for PhDs and Postdocs at UiB](https://www.facebook.com/events/481109910764794)
+
 ### President at NHHdoc, the doctoral interest organisation for PhD candidates at NHH Norwegian School of Economics
 July 2022 -- July 2023
 Representing the interests of PhD candidates at NHH
