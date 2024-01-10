@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Differentiation | Academic</title>
+    <link>https://example.com/tag/differentiation/</link>
+      <atom:link href="https://example.com/tag/differentiation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Differentiation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Differentiation</title>
+      <link>https://example.com/tag/differentiation/</link>
+    </image>
+    
+    <item>
+      <title>A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines</title>
+      <link>https://example.com/publication/master-oppg/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/master-oppg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
