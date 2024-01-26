@@ -29,9 +29,9 @@ bio: PhD Research Scholar in 'Business Economics' at NHH Norwegian School of Eco
 
 # Interests to show in About widget
 interests:
-  - Industrial organisation
-  - Media economics
-  - Two-sided markets
+  - Two-sided platform markets
+  - Media market competition
+  - Vertical relations
 
 # Education to show in About widget
 education:
