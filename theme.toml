@@ -1,8 +1,8 @@
-name = "Academic"
+name = "Ole Kristian Dyskeland"
 license = "MIT"
 licenselink = "https://github.com/HugoBlox/theme-academic-cv/blob/main/LICENSE.md"
 description = "Use the no-code website framework to easily build your site. Choose from 50+ widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
-homepage = "https://github.com/HugoBlox/theme-academic-cv"
+homepage = "https://dyskeland.no"
 demosite = "https://hugoblox.com/templates/"
 tags = ["widgets",
         "resume",
@@ -39,8 +39,8 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Ole Kristian Dyskeland"
+  homepage = "https://dyskeland.no"
 
 # If porting an existing theme
 [original]

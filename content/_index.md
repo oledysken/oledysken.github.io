@@ -1,9 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Ole Kristian Dyskeland'
 date: 2022-10-24
 type: landing
-
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
@@ -27,6 +26,12 @@ sections:
 
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
 
+        <!--Custom spacing-->
+        <div class="mb-3"></div>
+        <!--GitHub Button JS-->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+        **Easily build anything with blocks - no-code required!**
+        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
         <!--Custom spacing-->
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
