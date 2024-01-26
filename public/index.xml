@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ole Kristian Dyskeland</title>
+    <link>https://dyskeland.no/</link>
+    <description>Recent content on Ole Kristian Dyskeland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no-nb</language>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dyskeland.no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education and Experience</title>
+      <link>https://dyskeland.no/post/education-experience/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dyskeland.no/post/education-experience/</guid>
+      <description>&lt;p&gt;Current: &lt;em&gt;PhD Business Economcis&lt;/em&gt; at &lt;strong&gt;&lt;a href=&#34;https://www.nhh.no/en/departments/business-and-management-science/&#34;&gt;Norwegian School of Economics, NHH&lt;/a&gt;&lt;/strong&gt; .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://dyskeland.no/post/teaching/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dyskeland.no/post/teaching/</guid>
+      <description>&lt;p&gt;Review of teaching experience.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research and Publications</title>
+      <link>https://dyskeland.no/post/research/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dyskeland.no/post/research/</guid>
+      <description>&lt;p&gt;Research and publications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://dyskeland.no/post/me/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dyskeland.no/post/me/</guid>
+      <description>&lt;p&gt;I can generally be found as &amp;ldquo;oledysk&amp;rdquo; on &lt;a href=&#34;https://twitter.com/OleDysk&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/oledysk/&#34;&gt;Linkedin&lt;/a&gt;, and most others online platforms. Alternatively email me at &lt;a href=&#34;mailto:Ole.Dyskeland@nhh.no&#34;&gt;Ole.Dyskeland@nhh.no&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

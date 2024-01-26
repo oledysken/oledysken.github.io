@@ -1,15 +1,7 @@
----
-title: Posts
-cms_exclude: true
++++
+aliases = ["posts", "articles", "blog", "showcase", "docs"]
+title = "Posts"
+author = "Ole Kristian Dyskeland"
+tags = ["index"]
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
----
++++
