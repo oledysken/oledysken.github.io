@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: 'Research'
-    org_name: 'NHH Norwegiam School of Economics'
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    org_name: 'Ole Kristian Dyskeland NHH Norwegian School of Economics'
+    description: 'PhD Research Scholar in applied economic theory.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
