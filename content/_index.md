@@ -67,6 +67,14 @@ sections:
           date_start: '2021-08-15'
           date_end: ''
           description: Four year PhD scholarship at the department of business and management science, with 25 % teacing duties.
+        - title: Deputy board member
+          company: NHH Norwegian School of Economics
+          company_url: http://www.nhh.no
+          company_logo: nhh
+          location: Bergen, Norway
+          date_start: '2023-07-01'
+          date_end: ''
+          description: Deputy member of the university college board of directors, representing temporary employees (PhDs and postdocs).
         - title: President
           company: Association of Doctoral Organisations in Norway
           company_url: www.stipendiat.no
