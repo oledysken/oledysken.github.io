@@ -45,11 +45,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Ole Kristian Dyskeland'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
+      enable: false
+      allow_derivatives: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/oledysken/oledysken.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -98,7 +98,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 4
 
 # Extensions
 
