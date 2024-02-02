@@ -44,7 +44,7 @@ education:
       year: 2020
     - course: BSc (Hons.) in Economics, Finance and International Business
       institution: Oxford Brookes University
-      year: 2014
+      year: 2017
 
 
 # Social/Academic Networking
@@ -60,10 +60,10 @@ social:
     link: https://twitter.com/OleDysk
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?hl=en&user=8cu52l0AAAAJ
+    link: https://www.nhh.no/en/employees/faculty/ole-kristian-dyskeland/
   - icon: github
     icon_pack: fab
     link: https://github.com/oledysken
@@ -81,5 +81,14 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD Research Scholar in 'Business Economics' at the Department of Business and Management Science at the Norwgeian School of Economics, NHH. My primary interests lie within applied theoretical industrial organisation, with a focus on two-sided markets and media markets. I have public service experience as a mineral economist with the Norwegian Directorate of Mining with Commissioner of Mines at Svalbard (DMF) and the British Office for National Statistics (ONS).
+I'm a PhD Research Scholar in 'Business Economics' at the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at NHH Norwgeian School of Economics.
+
+My primary interests lie within applied theoretical industrial organisation, with a focus on two-sided platform markets, media markets and vertical relations. 
+
+My supervisors are [Øystein Foros](https://www.nhh.no/en/employees/faculty/oystein-foros/), and [Malin Arve](https://sites.google.com/site/malinarve/) .
+
+ 
+
+Email: ole.dyskeland@nhh.no. And my [CV is here](/uploads/resume.pdf).
+
 {style="text-align: justify;"}

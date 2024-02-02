@@ -5,7 +5,7 @@
     <link>https://dyskeland.no/tag/media-competition/</link>
       <atom:link href="https://dyskeland.no/tag/media-competition/index.xml" rel="self" type="application/rss+xml" />
     <description>Media competition</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dyskeland.no/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Media competition</title>
@@ -13,20 +13,29 @@
     </image>
     
     <item>
-      <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://dyskeland.no/publication/multihoming-el/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://dyskeland.no/publication/multihoming-el/</guid>
-      <description>&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Media content creators and endogenous consumer multihoming</title>
+      <link>https://dyskeland.no/work-in-progress/content_creation/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dyskeland.no/work-in-progress/content_creation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We study the effect of adding capacity constraints to AI pricing algorithms. A common worry following Calvano et al (2020) is that autonomous pricing algorithms set collusive prices. We investigate how whether the equilibrium price paths converge similarly when there are capacity constraints on per-period sales.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines</title>
-      <link>https://dyskeland.no/publication/master-oppg/</link>
-      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://dyskeland.no/publication/master-oppg/</guid>
+      <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
+      <link>https://dyskeland.no/publication/multihoming-el/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://dyskeland.no/publication/multihoming-el/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines</title>
+      <link>https://dyskeland.no/working-paper/master-oppg/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://dyskeland.no/working-paper/master-oppg/</guid>
+      <description>&lt;p&gt;&amp;lsquo;Media markets differ significantly from the regular product space in that media outlet differentiation is not immediately separable in n-dimensions. It is also the case that high effort costs of reading an article may put readers off from reading it, and instead read about a different topic where they do not have to concentrate as much on following along. In this thesis I present a ‘short-run’ model for media competition where the editor publish a news issue in three stages: first they invest in quality through the underlying journalistic effort behind a story, then they decide on the advertisement volume by producing the newspaper’s layout, and lastly they compete in prices on news stands. I allow two long run variables to vary between the outlets: the size of their advertisement markets, and the effort cost of compromise – the transport cost. It is this latter difference between the outlets which is of interest in this study. By using Launhardt (1885)’s model of spatial differentiation rather than Hotelling (1929)’s, I allow one of the outlets to have disjoint demand, they have demand on both sides of their competitor. This allows me to analyse competition in prices and quality between long-form newspapers, which often require more attention to read, and tabloids, which are often easier to read. I find that outlets which cover similar news stories will wish to differentiate vertically, but that this might also occur with larger distance between the covered stories. The harder-to-read outlet will likely choose to invest more in journalistic quality of their stories to improve their perceived shelf-price. Allowing for varying transport cost complicates the matter of product differentiation, but in the media space, given the subjectivity of people’s preferences, and the importance of quality authorship in information-sharing, it adds relevant insights on the qualitative decision making among media outlets.&amp;rsquo;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

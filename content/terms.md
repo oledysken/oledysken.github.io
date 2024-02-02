@@ -12,6 +12,4 @@ header:
   image: ''
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
-
 Please don't plagiarise.

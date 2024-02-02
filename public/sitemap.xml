@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dyskeland.no/work-in-progress/ai_project/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/artificial-intelligence/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/autonomous-pricing/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/capacity-contraints/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/computational-economics/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/content-provision/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/media-competition/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/work-in-progress/content_creation/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/publication_types/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tags/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/work-in-progress/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/publication-type/working-paper/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dyskeland.no/publication-type/article-journal/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,10 +62,6 @@
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/tag/media-competition/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dyskeland.no/publication/multihoming-el/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,15 +70,7 @@
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/publication_types/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dyskeland.no/publication/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dyskeland.no/tags/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,7 +78,7 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/publication/master-oppg/</loc>
+    <loc>https://dyskeland.no/working-paper/master-oppg/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,7 +90,7 @@
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/publication-type/working-paper/</loc>
+    <loc>https://dyskeland.no/working-paper/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

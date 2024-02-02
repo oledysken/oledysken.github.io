@@ -1,8 +1,9 @@
 ---
 title: "Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives"
 authors:
-- admin
-- Øystein Foros
+- ok
+- foros
+
 date: "2023-09-01T00:00:00Z"
 doi: ""
 
@@ -21,7 +22,7 @@ publication_short: ""
 abstract: Conventional assumptions in the classical linear city of Hotelling, the workhorse model in media economics, are (i) that no consumer buys more than one of the goods (they are singlehomers) and (ii) that the market is covered. We relax both assumptions to analyze how exclusive and non-exclusive content affect pricing and profit for media platforms. In contrast to the outcome in a covered market with consumer multihoming, we show that the consumer price in an uncovered market depends on both exclusive and non-exclusive content. If advertisers have a high willingness to pay for exclusive eyeballs, platforms prefer to provide non-exclusive rather than exclusive content.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Conventional assumptions in the classical linear city of Hotelling, the workhorse model in media economics, are (i) that no consumer buys more than one of the goods (they are singlehomers) and (ii) that the market is covered. We relax both assumptions to analyze how exclusive and non-exclusive content affect pricing and profit for media platforms. In contrast to the outcome in a covered market with consumer multihoming, we show that the consumer price in an uncovered market depends on both exclusive and non-exclusive content. If advertisers have a high willingness to pay for exclusive eyeballs, platforms prefer to provide non-exclusive rather than exclusive content.
 
 tags:
 - Media competition
@@ -64,4 +65,3 @@ projects: []
 slides: ''
 ---
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
