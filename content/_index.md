@@ -61,7 +61,7 @@ sections:
         exclude_featured: true
     design:
       columns: '1'
-      view: List 
+      view: Compact 
 
   - block: collection
     content:
