@@ -103,6 +103,14 @@ sections:
           date_start: '2023-07-01'
           date_end: ''
           description: Deputy member of the university college board of directors, representing temporary employees (PhDs and postdocs).
+        - title: Deputy member
+          company:  Committee for Gender Balance and Diversity in Research (KIF Committee) 
+          company_url: https://kifinfo.no/en/content/committee-gender-balance-and-diversity-research-kif
+          company_logo: kif
+          location: Oslo, Norway
+          date_start: '2023-02-01'
+          date_end: ''
+          description: Deputy member to the Kif committee adminsitered at Universities Norway.
         - title: President
           company: Association of Doctoral Organisations in Norway
           company_url: www.stipendiat.no
@@ -131,7 +139,17 @@ sections:
     design:
       columns: '2'
  
-
+  - block: collection
+    content:
+      title: Media
+      text: |-
+      filters:
+        folders:
+          - media
+        exclude_featured: true
+    design:
+      columns: '1'
+      view: 4
 
   - block: contact
     id: contact

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intervju | Ole Kristian Dyskeland</title>
+    <link>https://dyskeland.no/tag/intervju/</link>
+      <atom:link href="https://dyskeland.no/tag/intervju/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intervju</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dyskeland.no/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Intervju</title>
+      <link>https://dyskeland.no/tag/intervju/</link>
+    </image>
+    
+    <item>
+      <title>Grande: Ingen menneske­rett å være veileder</title>
+      <link>https://dyskeland.no/media/veileder_menneskerett_intervju/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://dyskeland.no/media/veileder_menneskerett_intervju/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/grande-ingen-menneskerett-a-vaere-veileder/793836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intervju i Khrono 05.07.23.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
