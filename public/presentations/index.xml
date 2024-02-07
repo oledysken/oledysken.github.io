@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Ole Kristian Dyskeland</title>
+    <link>https://dyskeland.no/presentations/</link>
+      <atom:link href="https://dyskeland.no/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dyskeland.no/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://dyskeland.no/presentations/</link>
+    </image>
+    
+    <item>
+      <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
+      <link>https://dyskeland.no/presentations/geilo/</link>
+      <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
+      <guid>https://dyskeland.no/presentations/geilo/</guid>
+      <description>&lt;p&gt;Presented under working title &amp;ldquo;Media competition that enlarges the market size: Effects on pricing behaviour and content creation&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

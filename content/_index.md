@@ -75,6 +75,17 @@ sections:
       columns: '1'
       view: Compact
 
+  - block: collection
+    id: talks
+    content:
+      title: Presentations
+      filters:
+        folders:
+          - presentations
+    design:
+      columns: '1'
+      view: List
+
   - block: experience
     content:
       title: Experience
@@ -110,7 +121,7 @@ sections:
           location: Oslo, Norway
           date_start: '2023-02-01'
           date_end: ''
-          description: Deputy member to the Kif committee adminsitered at Universities Norway.
+          description: Deputy member to the Kif committee adminsitered at Universities Norway, representing the Association of Doctoral Organisations in Norway, SiN.
         - title: President
           company: Association of Doctoral Organisations in Norway
           company_url: www.stipendiat.no
@@ -138,17 +149,48 @@ sections:
           description: Was a GES intern summer 2016 in section for prices development on project for price indices by using high-frequency webscraped data for foodstuffs. Worked part times for the 2016-17 academic year on same project.
     design:
       columns: '2'
- 
+
+
+
+  - block: collection
+    id: posts
+    content:
+      title: Posts
+      subtitle: 'More or less relevant'
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 2
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
+
   - block: collection
     content:
       title: Media
+      subtitle: 'Mostly PhD candidate representation'
       text: |-
       filters:
         folders:
           - media
         exclude_featured: true
     design:
-      columns: '1'
+      columns: '2'
       view: 4
 
   - block: contact
@@ -162,7 +204,7 @@ sections:
       address:
         street: Helleveien 30
         city: Bergen
-        region: Vestland
+        region: Norway
         postcode: '5045'
         country: Norway
         country_code: NO
