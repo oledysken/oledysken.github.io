@@ -4,7 +4,7 @@ authors:
 - ok
 - foros
 
-date: "2023-09-01T00:00:00Z"
+date: "2023-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: "2024-01-10T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economics Letters*, 111327"
+publication: "*Economics Letters*, (232)111327"
 publication_short: ""
 
 abstract: Conventional assumptions in the classical linear city of Hotelling, the workhorse model in media economics, are (i) that no consumer buys more than one of the goods (they are singlehomers) and (ii) that the market is covered. We relax both assumptions to analyze how exclusive and non-exclusive content affect pricing and profit for media platforms. In contrast to the outcome in a covered market with consumer multihoming, we show that the consumer price in an uncovered market depends on both exclusive and non-exclusive content. If advertisers have a high willingness to pay for exclusive eyeballs, platforms prefer to provide non-exclusive rather than exclusive content.

@@ -85,7 +85,7 @@ I'm a PhD Research Scholar in 'Business Economics' at the [Department of Busines
 
 My primary interests lie within applied theoretical industrial organisation, with a focus on two-sided platform markets, media markets and vertical relations. 
 
-My supervisors are [Øystein Foros](https://www.nhh.no/en/employees/faculty/oystein-foros/), and [Malin Arve](https://sites.google.com/site/malinarve/) .
+My supervisors are [Øystein Foros](https://www.nhh.no/en/employees/faculty/oystein-foros/), and [Malin Arve](https://sites.google.com/site/malinarve/).
 
  
 

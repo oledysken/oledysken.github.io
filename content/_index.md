@@ -86,6 +86,63 @@ sections:
       columns: '1'
       view: List
 
+
+  - block: experience
+    content:
+      title: Teaching Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Teaching Education
+          company: NHH Norwegian School of Economics
+          company_url: http://www.nhh.no
+          company_logo: nhh
+          location: Bergen, Norway
+          date_start: '2021-08-15'
+          date_end: ''
+          description: '50h pedagogy training course for PhD students winter 2024. And 8h pedagogdy course for master TA students winter 2019/20.'
+        - title: PhD TA experience. 
+          company: NHH Norwegian School of Economics
+          company_url: http://www.nhh.no
+          company_logo: nhh
+          location: Bergen, Norway
+          date_start: '2021-08-15'
+          date_end: ''
+          description: '🇳🇴 Styring av Større Foretak (Management Control), master course by Iver Bragelien: Autmnn 2021, 2022, 2023 | 🇳🇴 Strategisk Organisering og Konkurranse (Strategic Organisation and Competition), master course by Øystein Foros: Spring 2023, 2024 | 🇬🇧 Taxes and Business Strategy, master course by Elisa Casi-Eberhard: Spring 2022, 2023, 2024'
+        - title: 'Educational podcast producer: SAM2-podden.' 
+          company: NHH Norwegian School of Economics
+          company_url: https://podcasts.apple.com/no/podcast/sam2-podden/id1507437397
+          company_logo: nhh
+          location: Bergen, Norway
+          date_start: '2020-01-15'
+          date_end: '2021-06-15'
+          description: '🇳🇴 Mikroøkonomi (Microeconomics), bachelor course by Kjetil Bjorvatn: Spring 2020, 2021. Co-produced with Ada Gjedebo Hetland.'
+        - title: Master TA experience. 
+          company: NHH Norwegian School of Economics
+          company_url: http://www.nhh.no
+          company_logo: nhh
+          location: Bergen, Norway
+          date_start: '2020-01-15'
+          date_end: '2020-06-15'
+          description: '🇳🇴 Mikroøkonomi (Microeconomics), bachelor course by Kjetil Bjorvatn: Spring 2020 |  🇬🇧 Econometrics, master course by Morten Sæthre: Spring 2020'
+        - title: Bachelor/Undergraduate TA experience. 
+          company: Oxford Brookes University
+          company_url: https://www.brookes.ac.uk
+          company_logo: oxbrookes
+          location: Oxford, United Kingdom
+          date_start: '2015-01-15'
+          date_end: '2017-06-15'
+          description: '🇬🇧 Quantitative Techniques for Economics and Finance 1, undergraduate course | 🇬🇧 Microeconomics 2, undergraduate course'
+    design:
+      columns: '1'
+      view: Compact
+
   - block: experience
     content:
       title: Experience

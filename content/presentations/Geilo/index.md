@@ -5,6 +5,13 @@ event: Geilo seminar
 event_url: 
 
 location: Geilo
+location: Hugo Blox Builder HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: Midway evaluation and seminar presentation for the department.
 

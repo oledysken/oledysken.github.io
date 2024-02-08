@@ -21,7 +21,7 @@ abstract: 'Media markets differ significantly from the regular product space in 
 
 
 # Summary. An optional shortened abstract.
-summary: Incentive for media platforms to invest in vertical quality when the platforms have different teransporation costs. The harder-to-read outlet will choose to invest more in (vertical) quality.  Master thesis, click for abstract.
+summary: Master thesis
 
 tags:
 - Media competition
