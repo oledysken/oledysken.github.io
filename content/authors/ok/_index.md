@@ -30,7 +30,7 @@ bio: PhD Research Scholar in 'Business Economics' at NHH Norwegian School of Eco
 # Interests to show in About widget
 interests:
   - Two-sided platform markets
-  - Media market competition
+  - Media market with consumer multihoming
   - Vertical relations
 
 # Education to show in About widget
@@ -81,9 +81,9 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD Research Scholar in 'Business Economics' at the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at NHH Norwgeian School of Economics.
+I'm a PhD Research Scholar in 'Business Economics' at the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at NHH Norwgeian School of Economics. I am an affiliated PhD Fellow at [Bergen Center for Competition Law and Economics, BECCLE](https://beccle.no).
 
-My primary interests lie within applied theoretical industrial organisation, with a focus on two-sided platform markets, media markets and vertical relations. 
+My primary interests lie within applied theoretical industrial organisation, with a focus on two-sided platform markets, media markets with multihoming consumers, and vertical relations. 
 
 My supervisors are [Øystein Foros](https://www.nhh.no/en/employees/faculty/oystein-foros/), and [Malin Arve](https://sites.google.com/site/malinarve/).
 
