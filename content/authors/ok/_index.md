@@ -22,7 +22,7 @@ role: PhD Research Scholar
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: NHH Norwegian School of Economics
-    url: https://www.nhh.no
+    url: https://www.nhh.no/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Research Scholar in 'Business Economics' at NHH Norwegian School of Economics. Research in applied economic theory for industrial organisation and media ecoomics.
@@ -38,8 +38,8 @@ education:
   courses:
     - course: PhD in Business Economics
       institution: NHH Norwegian School of Economics
-      year: (2025)
-    - course: MSc in Economics and Business Adminsitration
+      year: (expected 2025)
+    - course: MSc in Economics and Business Administration
       institution: NHH Norwegian School of Economics
       year: 2020
     - course: BSc (Hons.) in Economics, Finance and International Business
@@ -81,7 +81,7 @@ social:
 highlight_name: true
 ---
 
-I'm a PhD Research Scholar in 'Business Economics' at the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at NHH Norwgeian School of Economics. I am an affiliated PhD Fellow at [Bergen Center for Competition Law and Economics, BECCLE](https://beccle.no).
+I'm a PhD Research Scholar in 'Business Economics' at the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at NHH Norwegian School of Economics. I am an affiliated PhD Fellow at [Bergen Center for Competition Law and Economics, BECCLE](https://beccle.no).
 
 My primary interests lie within applied theoretical industrial organisation, with a focus on two-sided platform markets, media markets with multihoming consumers, and vertical relations. 
 

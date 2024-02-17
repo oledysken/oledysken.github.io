@@ -46,7 +46,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '1'
       view: 3
@@ -91,12 +91,6 @@ sections:
       title: Teaching Experience
       subtitle: ''
       text: '
-## Pedagogy training 
-
-50h "pedagogy for PhD students" course at NHH winter 2024.
-
-
-8h "pedagogy for master TAs" course at NHH 2020.
 
 ## PhD Teaching Assistant
 
@@ -112,7 +106,7 @@ Course Responsible: [Øystein Foros](https://www.nhh.no/en/employees/faculty/oys
 
 #### 🇬🇧 [FIE441: Taxes and Business Strategy](https://www.nhh.no/en/courses/taxes-and-business-strategy/) (Master)
 
-Course Responsible: [Elisa Casi-Eberhard](https://www.nhh.no/en/employees/faculty/elisa-casi/). Spring 2022, 2023, 2024: 
+Course Responsible: [Elisa Casi-Eberhard](https://www.nhh.no/en/employees/faculty/elisa-casi/). Spring 2022, 2023, 2024.
 
 ## Educational Podcast Producer 🎙️
 
@@ -145,6 +139,13 @@ At Oxford Brookes university.
 
 Now titled: Mathematics for Economics and Finance
 
+## Pedagogy training 
+
+50h "pedagogy for PhD students" course at NHH winter 2024.
+
+
+8h "pedagogy for master TAs" course at NHH 2020.
+
 '
     design:
       columns: '1'
@@ -163,7 +164,7 @@ Now titled: Mathematics for Economics and Finance
       items:
         - title: PhD Research Scholar
           company: NHH Norwegian School of Economics
-          company_url: http://www.nhh.no
+          company_url: https://www.nhh.no/en/
           company_logo: nhh
           location: Bergen, Norway
           date_start: '2021-08-15'
@@ -171,7 +172,7 @@ Now titled: Mathematics for Economics and Finance
           description: Four year PhD scholarship at the department of business and management science, with 25 % teacing duties.
         - title: Deputy board member
           company: NHH Norwegian School of Economics
-          company_url: http://www.nhh.no
+          company_url: https://www.nhh.no/en/
           company_logo: nhh
           location: Bergen, Norway
           date_start: '2023-07-01'
@@ -215,33 +216,33 @@ Now titled: Mathematics for Economics and Finance
 
 
 
-  - block: collection
-    id: posts
-    content:
-      title: Posts
-      subtitle: 'More or less relevant'
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 2
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+#  - block: collection
+#    id: posts
+#    content:
+#      title: Posts
+#      subtitle: 'More or less relevant'
+#      text: ''
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 2
+#      # Filter on criteria
+#      filters:
+#        folders:
+#          - post
+#       author: ""
+#        category: ""
+#        tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
+#      # Choose how many pages you would like to offset by
+#      offset: 0
+#      # Page order: descending (desc) or ascending (asc) date.
+#      order: desc
+#    design:
+#      # Choose a layout view
+#      view: compact
+#      columns: '2'
 
   - block: collection
     content:
