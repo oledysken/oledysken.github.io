@@ -1,6 +1,7 @@
 ---
 title: "Media content creators and endogenous consumer multihoming"
 authors:
+- marve
 - ok
 - foros
 

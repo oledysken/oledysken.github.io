@@ -25,13 +25,14 @@ organizations:
     url: https://www.nhh.no/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD Research Scholar in 'Business Economics' at NHH Norwegian School of Economics. Research in applied economic theory for industrial organisation and media ecoomics.
+bio: PhD Research Scholar in 'Business Economics' at NHH Norwegian School of Economics. Research in applied economic theory for industrial organisation and media economics.
 
 # Interests to show in About widget
 interests:
   - Two-sided platform markets
   - Media market with consumer multihoming
   - Vertical relations
+  - Strategic competition
 
 # Education to show in About widget
 education:

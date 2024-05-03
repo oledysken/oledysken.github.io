@@ -1,8 +1,9 @@
 ---
 title: "AI price competition with capacity constraints"
 authors:
-- ok
 - lilletvedt
+- ok
+
 
 date: "NA"
 doi: ""

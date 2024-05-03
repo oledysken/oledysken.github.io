@@ -141,7 +141,7 @@ Now titled: Mathematics for Economics and Finance
 
 ## Pedagogy training 
 
-50h "pedagogy for PhD students" course at NHH winter 2024.
+50h "[pedagogy for PhD students](/uploads/ped1phd24dyskeland.pdf)" course at NHH winter 2024.
 
 
 8h "pedagogy for master TAs" course at NHH 2020.
