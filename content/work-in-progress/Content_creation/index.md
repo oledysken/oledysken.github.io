@@ -64,4 +64,4 @@ projects:
 slides: ''
 ---
 
-*We study the effect of adding capacity constraints to AI pricing algorithms. A common worry following Calvano et al (2020) is that autonomous pricing algorithms set collusive prices. We investigate how whether the equilibrium price paths converge similarly when there are capacity constraints on per-period sales.*
+An upstream content creator decides whether to sell their content exclusively to one, or to both, downstream media platforms which compete for consumers. The platforms can choose to price low and attract multihoming among the consumers, or price high and induce singlehoming consumers, i.e. exclusive consumers. We study how the content creator’s pricing strategy can shape consumer homing decisions.
