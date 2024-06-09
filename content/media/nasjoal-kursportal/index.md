@@ -66,5 +66,3 @@ projects:
 slides: ''
 ---
 
-[Oppsummering av presentasjon](https://www.forskningsetikk.no/ressurser/forskningsetisk-forum/forskningsetisk-forum-2023/) jeg ga på forskningsetisk foum 2023. 
-
