@@ -270,7 +270,7 @@ Now titled: Mathematics for Economics and Finance
       subtitle:
       text: ''
       email: ole.dyskeland@nhh.no
-      phone: +47 918 72 914
+      phone: +47 55 95 94 87
       address:
         street: Helleveien 30
         city: Bergen
