@@ -176,22 +176,6 @@ At Oxford Brookes university.
           date_start: '2023-02-01'
           date_end: ''
           description: Deputy member to the Kif committee adminsitered at Universities Norway, representing the Association of Doctoral Organisations in Norway, SiN.
-        - title: Deputy department board member
-          company: NHH Norwegian School of Economics
-          company_url: https://www.nhh.no/en/
-          company_logo: nhh
-          location: Bergen, Norway
-          date_start: '2022-07-01'
-          date_end: ''
-          description: Deputy member of the department board for the Department of Business and Management Science, representing PhD candidates at the department.
-        - title: Deputy board member
-          company: NHH Norwegian School of Economics
-          company_url: https://www.nhh.no/en/
-          company_logo: nhh
-          location: Bergen, Norway
-          date_start: '2023-07-01'
-          date_end: '2024-07-01'
-          description: Deputy member of the university college board of directors, representing temporary employees (PhDs and postdocs).
         - title: President
           company: Association of Doctoral Organisations in Norway
           company_url: www.stipendiat.no
