@@ -137,8 +137,6 @@ At Oxford Brookes university.
 
 #### 🇬🇧 [Quantitative Techniques for Economics and Finance 1](https://www.brookes.ac.uk/courses/undergraduate/economics-finance-and-international-business/) (Bachelor/Undergraduate)
 
-Now titled: Mathematics for Economics and Finance
-
 ## Pedagogy training 
 
 50h "[pedagogy for PhD students](/uploads/ped1phd24dyskeland.pdf)" course at NHH winter 2024.
@@ -170,14 +168,6 @@ Now titled: Mathematics for Economics and Finance
           date_start: '2021-08-15'
           date_end: ''
           description: Four year PhD scholarship at the department of business and management science, with 25 % teacing duties.
-        - title: Deputy board member
-          company: NHH Norwegian School of Economics
-          company_url: https://www.nhh.no/en/
-          company_logo: nhh
-          location: Bergen, Norway
-          date_start: '2023-07-01'
-          date_end: ''
-          description: Deputy member of the university college board of directors, representing temporary employees (PhDs and postdocs).
         - title: Deputy member
           company:  Committee for Gender Balance and Diversity in Research (KIF Committee) 
           company_url: https://kifinfo.no/en/content/committee-gender-balance-and-diversity-research-kif
@@ -186,6 +176,22 @@ Now titled: Mathematics for Economics and Finance
           date_start: '2023-02-01'
           date_end: ''
           description: Deputy member to the Kif committee adminsitered at Universities Norway, representing the Association of Doctoral Organisations in Norway, SiN.
+        - title: Deputy department board member
+          company: NHH Norwegian School of Economics
+          company_url: https://www.nhh.no/en/
+          company_logo: nhh
+          location: Bergen, Norway
+          date_start: '2022-07-01'
+          date_end: ''
+          description: Deputy member of the department board for the Department of Business and Management Science, representing PhD candidates at the department.
+        - title: Deputy board member
+          company: NHH Norwegian School of Economics
+          company_url: https://www.nhh.no/en/
+          company_logo: nhh
+          location: Bergen, Norway
+          date_start: '2023-07-01'
+          date_end: '2024-07-01'
+          description: Deputy member of the university college board of directors, representing temporary employees (PhDs and postdocs).
         - title: President
           company: Association of Doctoral Organisations in Norway
           company_url: www.stipendiat.no

@@ -1,5 +1,5 @@
 ---
-title: "Media content creators and endogenous consumer multihoming"
+title: "Channel Coordination on Exclusive vs. Non-Exclusive Content Under Endogenous Consumer Multihoming"
 authors:
 - marve
 - ok
@@ -20,10 +20,10 @@ publication_types: ["working-paper"]
 publication: ""
 publication_short: ""
 
-abstract: An upstream content creator decides whether to sell their content exclusively to one, or to both, downstream media platforms which compete for consumers. The platforms can choose to price low and attract multihoming among the consumers, or price high and induce singlehoming consumers, i.e. exclusive consumers. We study how the content creator’s pricing strategy can shape consumer homing decisions.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: An upstream content creator decides whether to sell their content exclusively to one, or to both, downstream media platforms which compete for consumers. The platforms can choose to price low and attract multihoming among the consumers, or price high and induce singlehoming consumers, i.e. exclusive consumers. We study how the content creator’s pricing strategy can shape consumer homing decisions.
+
 
 tags:
 - Media competition
@@ -64,4 +64,3 @@ projects:
 slides: ''
 ---
 
-An upstream content creator decides whether to sell their content exclusively to one, or to both, downstream media platforms which compete for consumers. The platforms can choose to price low and attract multihoming among the consumers, or price high and induce singlehoming consumers, i.e. exclusive consumers. We study how the content creator’s pricing strategy can shape consumer homing decisions.
