@@ -1,5 +1,5 @@
 ---
-title: "Channel Coordination on Exclusive vs. Non-Exclusive Content Under Endogenous Consumer Multihoming"
+title: "Media platforms and Content Providers: Endogenous homing and distribution"
 authors:
 - marve
 - ok
@@ -9,7 +9,7 @@ date: "NA"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-10T00:00:00Z"
+publishDate: "2024-09-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
