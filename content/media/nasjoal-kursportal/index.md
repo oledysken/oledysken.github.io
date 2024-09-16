@@ -17,7 +17,7 @@ publishDate: "2024-01-10T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forskningsetisk forum, presentasjon"
+publication: "Khrono, op-ed"
 publication_short: ""
 
 abstract: Det er lett gjennomførbart, ikke kontroversielt, og med potensial til å skape en stor forbedring i livet til stipendiatene. Men det er fortsatt ikke iverksatt. Klarer vi å få det til i 2024?
