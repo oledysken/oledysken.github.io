@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational economics | Ole Kristian Dyskeland</title>
+    <title>Computational Economics | Ole Kristian Dyskeland</title>
     <link>https://dyskeland.no/tag/computational-economics/</link>
       <atom:link href="https://dyskeland.no/tag/computational-economics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Computational economics</description>
+    <description>Computational Economics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dyskeland.no/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Computational economics</title>
+      <title>Computational Economics</title>
       <link>https://dyskeland.no/tag/computational-economics/</link>
     </image>
     
     <item>
-      <title>AI price competition with capacity constraints</title>
+      <title>Do Capacity Constrained Bots Collude?</title>
       <link>https://dyskeland.no/work-in-progress/ai_project/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://dyskeland.no/work-in-progress/ai_project/</guid>
-      <description>&lt;p&gt;&lt;em&gt;We study the effect of adding capacity constraints to AI pricing algorithms. A common worry following Calvano et al (2020) is that autonomous pricing algorithms set collusive prices. We investigate how whether the equilibrium price paths converge similarly when there are capacity constraints on per-period sales.&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Reinforcement learning algorithms have been shown able to collude on supracompetitive prices when playing pricing games. However, the literature suggests that collusion may not be robust to alternative setups of the game. We simulate models where the algorithms are constrained in production capacity. Our findings suggest that capacity constraints may lead to cycling behavior and high prices as a consequence. We do not find evidence that the cycling behavior is due to tacit collusion&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I am a contributing author on this paper. For inquires, contact John.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This paper won the &amp;ldquo;Prize for the best PhD paper 2024&amp;rdquo; at the 46th Annual Meeting of the Norwgeian Association of Economists.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     

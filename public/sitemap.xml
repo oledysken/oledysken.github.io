@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dyskeland.no/presentations/24forskerm%C3%B8tet/</loc>
+    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/content-provision/</loc>
+    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/incremental-pricing/</loc>
+    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/multihoming/</loc>
+    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/presentations/</loc>
+    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tags/</loc>
+    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/work-in-progress/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/media-competition/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/platforms/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/publication_types/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/uncovered-market/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/work-in-progress/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/publication-type/working-paper/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dyskeland.no/publication-type/article-journal/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,15 +70,7 @@
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/publication_types/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dyskeland.no/tag/stipendiatorganisasjonene-i-norge/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dyskeland.no/tags/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -34,15 +78,11 @@
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/work-in-progress/ai_project/</loc>
+    <loc>https://dyskeland.no/tag/algorithmic-pricing/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dyskeland.no/tag/artificial-intelligence/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dyskeland.no/tag/autonomous-pricing/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,19 +94,23 @@
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://dyskeland.no/tag/competition/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dyskeland.no/tag/computational-economics/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/tag/content-provision/</loc>
+    <loc>https://dyskeland.no/work-in-progress/ai_project/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dyskeland.no/tag/industrial-organization/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dyskeland.no/tag/internationalisation/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dyskeland.no/tag/media-competition/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -79,14 +123,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dyskeland.no/media/phd_norwegian/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dyskeland.no/work-in-progress/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dyskeland.no/publication-type/working-paper/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -110,7 +146,7 @@
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/publication/multihoming-el/</loc>
+    <loc>https://dyskeland.no/publication/23_geilo/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -202,11 +238,7 @@
     <lastmod>2023-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dyskeland.no/presentations/geilo/</loc>
-    <lastmod>2023-03-09T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dyskeland.no/presentations/</loc>
+    <loc>https://dyskeland.no/presentations/23geilo/</loc>
     <lastmod>2023-03-09T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

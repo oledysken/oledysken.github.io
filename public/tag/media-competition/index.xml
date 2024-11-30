@@ -5,12 +5,20 @@
     <link>https://dyskeland.no/tag/media-competition/</link>
       <atom:link href="https://dyskeland.no/tag/media-competition/index.xml" rel="self" type="application/rss+xml" />
     <description>Media competition</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dyskeland.no/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Media competition</title>
       <link>https://dyskeland.no/tag/media-competition/</link>
     </image>
+    
+    <item>
+      <title>Content Acquisition in an Uncovered Market with Endogenous Homing</title>
+      <link>https://dyskeland.no/work-in-progress/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://dyskeland.no/work-in-progress/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive Content Under Endogenous Consumer Multihoming</title>
@@ -22,17 +30,17 @@
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://dyskeland.no/publication/multihoming-el/</link>
+      <link>https://dyskeland.no/publication/23_geilo/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://dyskeland.no/publication/multihoming-el/</guid>
+      <guid>https://dyskeland.no/publication/23_geilo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://dyskeland.no/presentations/geilo/</link>
+      <link>https://dyskeland.no/presentations/23geilo/</link>
       <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
-      <guid>https://dyskeland.no/presentations/geilo/</guid>
+      <guid>https://dyskeland.no/presentations/23geilo/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Media competition that enlarges the market size: Effects on pricing behaviour and content creation&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>

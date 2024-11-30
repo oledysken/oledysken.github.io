@@ -1,5 +1,5 @@
 ---
-title: "AI price competition with capacity constraints"
+title: "Do Capacity Constrained Bots Collude?"
 authors:
 - lilletvedt
 - ok
@@ -20,16 +20,18 @@ publication_types: ["working-paper"]
 publication: ""
 publication_short: ""
 
-abstract: We study the effect of adding capacity constraints to AI pricing algorithms. A common worry following Calvano et al (2020) is that autonomous pricing algorithms set collusive prices. We investigate how whether the equilibrium price paths converge similarly when there are capacity constraints on per-period sales.
+abstract: Reinforcement learning algorithms have been shown able to collude on supracompetitive prices when playing pricing games. However, the literature suggests that collusion may not be robust to alternative setups of the game. We simulate models where the algorithms are constrained in production capacity. Our findings suggest that capacity constraints may lead to cycling behavior and high prices as a consequence. We do not find evidence that the cycling behavior is due to tacit collusion
 
 # Summary. An optional shortened abstract.
-summary: We study the effect of adding capacity constraints to AI pricing algorithms. A common worry following Calvano et al (2020) is that autonomous pricing algorithms set collusive prices. We investigate how whether the equilibrium price paths converge similarly when there are capacity constraints on per-period sales.
+summary: Reinforcement learning algorithms have been shown able to collude on supracompetitive prices when playing pricing games. However, the literature suggests that collusion may not be robust to alternative setups of the game. We simulate models where the algorithms are constrained in production capacity. Our findings suggest that capacity constraints may lead to cycling behavior and high prices as a consequence. We do not find evidence that the cycling behavior is due to tacit collusion
 
 tags:
-- Autonomous pricing
-- Capacity contraints
+- Algorithmic Pricing
+- Capacity Contraints
 - Artificial intelligence
-- Computational economics
+- Computational Economics
+- Industrial Organization
+- Competition
 
 featured: false
 
@@ -66,4 +68,12 @@ projects:
 slides: ''
 ---
 
-*We study the effect of adding capacity constraints to AI pricing algorithms. A common worry following Calvano et al (2020) is that autonomous pricing algorithms set collusive prices. We investigate how whether the equilibrium price paths converge similarly when there are capacity constraints on per-period sales.*
+*Reinforcement learning algorithms have been shown able to collude on supracompetitive prices when playing pricing games. However, the literature suggests that collusion may not be robust to alternative setups of the game. We simulate models where the algorithms are constrained in production capacity. Our findings suggest that capacity constraints may lead to cycling behavior and high prices as a consequence. We do not find evidence that the cycling behavior is due to tacit collusion*
+
+
+
+I am a contributing author on this paper. For inquires, contact John.
+
+
+
+**This paper won the "Prize for the best PhD paper 2024" at the 46th Annual Meeting of the Norwgeian Association of Economists.**

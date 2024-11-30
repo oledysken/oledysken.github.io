@@ -28,6 +28,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://www.uib.no/personer/John.Sæten.Lilletvedt
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:john.lilletvedt@uib.no
 
 
 # Highlight the author in author lists? (true/false)

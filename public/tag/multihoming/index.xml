@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multihoming | Ole Kristian Dyskeland</title>
+    <link>https://dyskeland.no/tag/multihoming/</link>
+      <atom:link href="https://dyskeland.no/tag/multihoming/index.xml" rel="self" type="application/rss+xml" />
+    <description>multihoming</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2024 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dyskeland.no/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>multihoming</title>
+      <link>https://dyskeland.no/tag/multihoming/</link>
+    </image>
+    
+    <item>
+      <title>Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing</title>
+      <link>https://dyskeland.no/presentations/24forskerm%C3%B8tet/</link>
+      <pubDate>Fri, 29 Nov 2024 13:00:00 +0000</pubDate>
+      <guid>https://dyskeland.no/presentations/24forskerm%C3%B8tet/</guid>
+      <description>&lt;p&gt;Presented under working title &amp;ldquo;Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing &amp;ldquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

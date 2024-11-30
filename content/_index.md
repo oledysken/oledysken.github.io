@@ -98,15 +98,15 @@ At NHH Norwegian School of Economics.
 
 ####  🇳🇴 [BUS400N: Styring av Større Foretak](https://www.nhh.no/emner/styring-av-storre-foretak/) (*Management Control*, Master)
 
-Course Responsible: [Iver Bragelien](https://www.nhh.no/en/employees/faculty/iver-bragelien/). Autumn 2021, 2022, 2023. Assignment feedback and exam marking.
+Course Responsible: [Iver Bragelien](https://www.nhh.no/en/employees/faculty/iver-bragelien/). Autumn 2021 - 2024. Assignment feedback and exam marking.
 
 #### 🇳🇴 [BUS438: Strategisk Organisering og Konkurranse](https://www.nhh.no/emner/strategisk-organisering-og-konkurranse/) (*Strategic Organisation and Competition*, Master)
 
-Course Responsible: [Øystein Foros](https://www.nhh.no/en/employees/faculty/oystein-foros/). Spring 2023, 2024. Exam grading.
+Course Responsible: [Øystein Foros](https://www.nhh.no/en/employees/faculty/oystein-foros/). Spring 2023 - 2024. Exam grading.
 
 #### 🇬🇧 [FIE441: Taxes and Business Strategy](https://www.nhh.no/en/courses/taxes-and-business-strategy/) (Master)
 
-Course Responsible: [Elisa Casi-Eberhard](https://www.nhh.no/en/employees/faculty/elisa-casi/). Spring 2022, 2023, 2024.
+Course Responsible: [Elisa Casi-Eberhard](https://www.nhh.no/en/employees/faculty/elisa-casi/). Spring 2022 - 2024.
 
 ## Educational Podcast Producer 🎙️
 
