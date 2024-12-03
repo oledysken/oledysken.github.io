@@ -58,8 +58,8 @@ social:
     link: mailto:ole.dyskeland@nhh.no
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/OleDysk
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/olekristian.dyskeland.no
+    label: Follow me on Bluesky
     display:
       header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
