@@ -1,0 +1,4 @@
+baseURL = 'olekristian.dyskeland.no'
+languageCode = 'en-us'
+title = 'Ole Kristian Dyskeland'
+theme = 'academic'

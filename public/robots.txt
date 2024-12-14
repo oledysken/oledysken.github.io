@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://dyskeland.no/sitemap.xml
+Sitemap: olekristian.dyskeland.no/sitemap.xml

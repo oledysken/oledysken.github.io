@@ -18,16 +18,16 @@ organizations:
     url: https://www.nhh.no
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio: 
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://www.nhh.no/en/employees/faculty/oystein-foros/
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:Oystein.Foros@nhh.no'
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.no/citations?user=aom7zooAAAAJ&hl=no
 
 
 # Highlight the author in author lists? (true/false)
