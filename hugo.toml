@@ -2,7 +2,3 @@ baseURL = 'https://olekristian.dyskeland.no'
 languageCode = 'en-us'
 title = 'Ole Kristian Dyskeland'
 theme = 'academic'
-
-[module]
-  [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
