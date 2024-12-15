@@ -1,4 +1,4 @@
 baseURL = 'https://olekristian.dyskeland.no'
 languageCode = 'en-us'
 title = 'Ole Kristian Dyskeland'
-theme = 'academic/starters-bootstrap/academic-cv'
+theme = 'academic'
