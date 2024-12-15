@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers | Hugo Academic CV Theme</title>
-    <link>olekristian.dyskeland.no/publication/</link>
-      <atom:link href="olekristian.dyskeland.no/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olekristian.dyskeland.no/publication/</link>
+      <atom:link href="https://olekristian.dyskeland.no/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Papers</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>https://olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
       <title>Papers</title>
-      <link>olekristian.dyskeland.no/publication/</link>
+      <link>https://olekristian.dyskeland.no/publication/</link>
     </image>
     
     <item>
       <title>Content Acquisition in an Uncovered Market with Endogenous Homing</title>
-      <link>olekristian.dyskeland.no/publication/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
+      <link>https://olekristian.dyskeland.no/publication/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>olekristian.dyskeland.no/publication/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
+      <guid>https://olekristian.dyskeland.no/publication/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media platforms and Content Providers: Endogenous homing and distribution</title>
-      <link>olekristian.dyskeland.no/publication/content_creation/</link>
+      <link>https://olekristian.dyskeland.no/publication/content_creation/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>olekristian.dyskeland.no/publication/content_creation/</guid>
+      <guid>https://olekristian.dyskeland.no/publication/content_creation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>olekristian.dyskeland.no/publication/ai_project/</link>
+      <link>https://olekristian.dyskeland.no/publication/ai_project/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>olekristian.dyskeland.no/publication/ai_project/</guid>
+      <guid>https://olekristian.dyskeland.no/publication/ai_project/</guid>
       <description>&lt;p&gt;&lt;em&gt;Reinforcement learning algorithms have been shown able to collude on supracompetitive prices when playing pricing games. However, the literature suggests that collusion may not be robust to alternative setups of the game. We simulate models where the algorithms are constrained in production capacity. Our findings suggest that capacity constraints may lead to cycling behavior and high prices as a consequence. We do not find evidence that the cycling behavior is due to tacit collusion&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I am a contributing author on this paper. For inquires, contact John.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This paper won the &amp;ldquo;Prize for the best PhD paper 2024&amp;rdquo; at the 46th Annual Meeting of the Norwgeian Association of Economists.&lt;/strong&gt;&lt;/p&gt;
@@ -41,22 +41,79 @@
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>olekristian.dyskeland.no/publication/23_el/</link>
+      <link>https://olekristian.dyskeland.no/publication/23_el/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>olekristian.dyskeland.no/publication/23_el/</guid>
+      <guid>https://olekristian.dyskeland.no/publication/23_el/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines</title>
-      <link>olekristian.dyskeland.no/publication/master-oppg/</link>
+      <link>https://olekristian.dyskeland.no/publication/master-oppg/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>olekristian.dyskeland.no/publication/master-oppg/</guid>
+      <guid>https://olekristian.dyskeland.no/publication/master-oppg/</guid>
       <description>&lt;p&gt;NHH master thesis.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://beccle.no/publications-2/master-theses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awarded 2020 BECCLE master theses grant&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Published as SNF working paper 10/20.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;lsquo;Media markets differ significantly from the regular product space in that media outlet differentiation is not immediately separable in n-dimensions. It is also the case that high effort costs of reading an article may put readers off from reading it, and instead read about a different topic where they do not have to concentrate as much on following along. In this thesis I present a ‘short-run’ model for media competition where the editor publish a news issue in three stages: first they invest in quality through the underlying journalistic effort behind a story, then they decide on the advertisement volume by producing the newspaper’s layout, and lastly they compete in prices on news stands. I allow two long run variables to vary between the outlets: the size of their advertisement markets, and the effort cost of compromise – the transport cost. It is this latter difference between the outlets which is of interest in this study. By using Launhardt (1885)’s model of spatial differentiation rather than Hotelling (1929)’s, I allow one of the outlets to have disjoint demand, they have demand on both sides of their competitor. This allows me to analyse competition in prices and quality between long-form newspapers, which often require more attention to read, and tabloids, which are often easier to read. I find that outlets which cover similar news stories will wish to differentiate vertically, but that this might also occur with larger distance between the covered stories. The harder-to-read outlet will likely choose to invest more in journalistic quality of their stories to improve their perceived shelf-price. Allowing for varying transport cost complicates the matter of product differentiation, but in the media space, given the subjectivity of people’s preferences, and the importance of quality authorship in information-sharing, it adds relevant insights on the qualitative decision making among media outlets.&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://olekristian.dyskeland.no/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://olekristian.dyskeland.no/publication/preprint/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://olekristian.dyskeland.no/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://olekristian.dyskeland.no/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://olekristian.dyskeland.no/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://olekristian.dyskeland.no/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

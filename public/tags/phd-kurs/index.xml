@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PhD Kurs | Hugo Academic CV Theme</title>
-    <link>olekristian.dyskeland.no/tags/phd-kurs/</link>
-      <atom:link href="olekristian.dyskeland.no/tags/phd-kurs/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://olekristian.dyskeland.no/tags/phd-kurs/</link>
+      <atom:link href="https://olekristian.dyskeland.no/tags/phd-kurs/index.xml" rel="self" type="application/rss+xml" />
     <description>PhD Kurs</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>https://olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
       <title>PhD Kurs</title>
-      <link>olekristian.dyskeland.no/tags/phd-kurs/</link>
+      <link>https://olekristian.dyskeland.no/tags/phd-kurs/</link>
     </image>
     
     <item>
       <title>Vi trenger (fortsatt) en nasjonal portal for doktorgradskurs</title>
-      <link>olekristian.dyskeland.no/post/nasjoal-kursportal/</link>
+      <link>https://olekristian.dyskeland.no/post/nasjoal-kursportal/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>olekristian.dyskeland.no/post/nasjoal-kursportal/</guid>
+      <guid>https://olekristian.dyskeland.no/post/nasjoal-kursportal/</guid>
       <description></description>
     </item>
     

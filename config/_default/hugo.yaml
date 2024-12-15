@@ -6,7 +6,7 @@
 # Website name
 title: Hugo Academic CV Theme
 # Website URL
-baseURL: 'olekristian.dyskeland.no/'
+baseURL: 'https://olekristian.dyskeland.no/'
 
 ############################
 ## LANGUAGE
