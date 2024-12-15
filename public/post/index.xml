@@ -65,10 +65,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/blog-with-jupyter/output_1_0_hu7520607843632446647.webp 400w,
+               /post/blog-with-jupyter/output_1_0_hu15820163375970580320.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1175056223914972671.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu5136356064165537006.webp 1200w&#34;
-               src=&#34;https://olekristian.dyskeland.no/post/blog-with-jupyter/output_1_0_hu7520607843632446647.webp&#34;
+               src=&#34;https://olekristian.dyskeland.no/post/blog-with-jupyter/output_1_0_hu15820163375970580320.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -400,7 +400,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-824356917&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-419653287&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -418,7 +418,7 @@ data.head()
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-824356917&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-419653287&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
