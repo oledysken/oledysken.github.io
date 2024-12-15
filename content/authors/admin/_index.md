@@ -130,7 +130,7 @@ languages:
 
 ## About Me
 
-I'm a PhD Research Scholar in 'Business Economics' at the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at NHH Norwegian School of Economics. I am an affiliated PhD Fellow at [Bergen Center for Competition Law and Economics, BECCLE](https://beccle.no).
+[I'm a PhD Research Scholar](https://www.nhh.no/en/employees/faculty/ole-kristian-dyskeland/) in 'Business Economics' at the [Department of Business and Management Science](https://www.nhh.no/en/departments/business-and-management-science/) at NHH Norwegian School of Economics. I am an affiliated PhD Fellow at [Bergen Center for Competition Law and Economics, BECCLE](https://beccle.no).
 
 My primary interests lie within applied theoretical industrial organisation, with a focus on two-sided platform markets, media markets with multihoming consumers, and vertical relations. 
 

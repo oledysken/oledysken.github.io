@@ -12,9 +12,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: 'academic'
-    org_name: 'Ole Kristian Dyskelabd'
-    description: 'Ole Kristian is a PhD research scholar at NHH Norwgeian School of Economics studying competition in media markets..'
+    local_business_type: 'research'
+    org_name: 'Ole Kristian Dyskeland'
+    description: 'Ole Kristian is a PhD research scholar at NHH Norwegian School of Economics studying competition in media markets..'
     twitter: 'oledysk'
   analytics:
     google_analytics: ''

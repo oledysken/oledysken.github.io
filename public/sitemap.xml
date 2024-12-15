@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://olekristian.dyskeland.no/tags/ai/</loc>
+    <lastmod>2025-02-13T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/tags/collusion/</loc>
+    <lastmod>2025-02-13T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/tags/folk-theorem/</loc>
+    <lastmod>2025-02-13T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/tags/guest-lecture/</loc>
+    <lastmod>2025-02-13T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</loc>
+    <lastmod>2025-02-13T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/tags/price-competition/</loc>
+    <lastmod>2025-02-13T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/event/</loc>
+    <lastmod>2025-02-13T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/tags/</loc>
+    <lastmod>2025-02-13T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://olekristian.dyskeland.no/tags/nhh/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,43 +46,31 @@
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://olekristian.dyskeland.no/tags/</loc>
-    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://olekristian.dyskeland.no/teaching/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</loc>
-    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
+    <lastmod>2024-11-29T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://olekristian.dyskeland.no/tags/content-provision/</loc>
-    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
+    <lastmod>2024-11-29T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://olekristian.dyskeland.no/tags/incremental-pricing/</loc>
-    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://olekristian.dyskeland.no/tags/multihoming/</loc>
-    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://olekristian.dyskeland.no/event/</loc>
-    <lastmod>2024-11-29T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://olekristian.dyskeland.no/publication/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</loc>
-    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-29T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://olekristian.dyskeland.no/tags/media-competition/</loc>
-    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-29T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://olekristian.dyskeland.no/publication/</loc>
+    <loc>https://olekristian.dyskeland.no/tags/multihoming/</loc>
+    <lastmod>2024-11-29T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,11 +86,15 @@
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://olekristian.dyskeland.no/wip/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://olekristian.dyskeland.no/publication_types/working-paper/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://olekristian.dyskeland.no/publication/content_creation/</loc>
+    <loc>https://olekristian.dyskeland.no/wip/content_creation/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -138,7 +162,7 @@
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://olekristian.dyskeland.no/publication/ai_project/</loc>
+    <loc>https://olekristian.dyskeland.no/wip/ai_project/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -175,6 +199,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://olekristian.dyskeland.no/publication/23_el/</loc>
+    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/publication/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -306,7 +334,7 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://olekristian.dyskeland.no/publication/master-oppg/</loc>
+    <loc>https://olekristian.dyskeland.no/wp/master-oppg/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -315,6 +343,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://olekristian.dyskeland.no/tags/differentiation/</loc>
+    <lastmod>2020-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://olekristian.dyskeland.no/wp/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

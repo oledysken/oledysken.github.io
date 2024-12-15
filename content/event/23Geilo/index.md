@@ -19,7 +19,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [ok]
+authors: [admin, foros]
 tags: [Media competition, Pricing, Content creation,  Market expansion]
 
 # Is this a featured talk? (true/false)

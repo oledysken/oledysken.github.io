@@ -52,7 +52,27 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Papers and work in progress
+      title: Work in Progress
+      text: ""
+      filters:
+        folders:
+          - wip
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Working Papers
+      text: ""
+      filters:
+        folders:
+          - wp
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Publications
       text: ""
       filters:
         folders:
@@ -63,7 +83,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Presentations
       filters:
         folders:
           - event
@@ -73,7 +93,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent News and Media
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

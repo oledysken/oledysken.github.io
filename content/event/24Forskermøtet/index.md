@@ -11,15 +11,15 @@ summary: 46 Annual Meeting of the Norwegian Association of Economists.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-29T13:00:00Z'
-date_end: ''
-all_day: true
+date: '2024-11-29T10:00:00Z'
+#date_end: ''
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [marve, ok, foros]
-tags: [multihoming, incremental pricing, content provision]
+authors: [marve, admin, foros]
+tags: [media competition, multihoming, incremental pricing, content provision]
 
 # Is this a featured talk? (true/false)
 featured: false

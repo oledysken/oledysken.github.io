@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Hugo Academic CV Theme</title>
+    <title>Projects | Ole Kristian Dyskeland</title>
     <link>https://olekristian.dyskeland.no/project/</link>
       <atom:link href="https://olekristian.dyskeland.no/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>

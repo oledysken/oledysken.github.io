@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Hugo Academic CV Theme</title>
+    <title>Tags | Ole Kristian Dyskeland</title>
     <link>https://olekristian.dyskeland.no/tags/</link>
       <atom:link href="https://olekristian.dyskeland.no/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
       <title>Tags</title>

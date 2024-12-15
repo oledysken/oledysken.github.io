@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ole Kristian Dyskeland | Hugo Academic CV Theme</title>
+    <title>Ole Kristian Dyskeland</title>
     <link>https://olekristian.dyskeland.no/</link>
       <atom:link href="https://olekristian.dyskeland.no/index.xml" rel="self" type="application/rss+xml" />
     <description>Ole Kristian Dyskeland</description>
@@ -11,6 +11,15 @@
       <title>Ole Kristian Dyskeland</title>
       <link>https://olekristian.dyskeland.no/</link>
     </image>
+    
+    <item>
+      <title>Korleis kan bedrifter ta i bruk prisrobotar for å effektivt sette prisar i marknaden, og kva er konsekvensane for konkurransen?</title>
+      <link>https://olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</link>
+      <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
+      <guid>https://olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</guid>
+      <description>&lt;p&gt;Guest lecture in undergradudate course on applied microeconomics, using idea of paper about capacity constrained collusion to show how the theories of Bertrand, collusion, and the Folk Theorem have practical relevance.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NHH teaching duties</title>
@@ -48,7 +57,7 @@
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing</title>
       <link>https://olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</link>
-      <pubDate>Fri, 29 Nov 2024 13:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Nov 2024 10:00:00 +0000</pubDate>
       <guid>https://olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing &amp;ldquo;.&lt;/p&gt;
 </description>
@@ -56,17 +65,17 @@
     
     <item>
       <title>Content Acquisition in an Uncovered Market with Endogenous Homing</title>
-      <link>https://olekristian.dyskeland.no/publication/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
+      <link>https://olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://olekristian.dyskeland.no/publication/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
+      <guid>https://olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media platforms and Content Providers: Endogenous homing and distribution</title>
-      <link>https://olekristian.dyskeland.no/publication/content_creation/</link>
+      <link>https://olekristian.dyskeland.no/wip/content_creation/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://olekristian.dyskeland.no/publication/content_creation/</guid>
+      <guid>https://olekristian.dyskeland.no/wip/content_creation/</guid>
       <description></description>
     </item>
     
@@ -98,9 +107,9 @@
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>https://olekristian.dyskeland.no/publication/ai_project/</link>
+      <link>https://olekristian.dyskeland.no/wip/ai_project/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://olekristian.dyskeland.no/publication/ai_project/</guid>
+      <guid>https://olekristian.dyskeland.no/wip/ai_project/</guid>
       <description>&lt;p&gt;&lt;em&gt;Reinforcement learning algorithms have been shown able to collude on supracompetitive prices when playing pricing games. However, the literature suggests that collusion may not be robust to alternative setups of the game. We simulate models where the algorithms are constrained in production capacity. Our findings suggest that capacity constraints may lead to cycling behavior and high prices as a consequence. We do not find evidence that the cycling behavior is due to tacit collusion&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I am a contributing author on this paper. For inquires, contact John.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This paper won the &amp;ldquo;Prize for the best PhD paper 2024&amp;rdquo; at the 46th Annual Meeting of the Norwgeian Association of Economists.&lt;/strong&gt;&lt;/p&gt;
@@ -297,9 +306,9 @@
     
     <item>
       <title>A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines</title>
-      <link>https://olekristian.dyskeland.no/publication/master-oppg/</link>
+      <link>https://olekristian.dyskeland.no/wp/master-oppg/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://olekristian.dyskeland.no/publication/master-oppg/</guid>
+      <guid>https://olekristian.dyskeland.no/wp/master-oppg/</guid>
       <description>&lt;p&gt;NHH master thesis.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://beccle.no/publications-2/master-theses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awarded 2020 BECCLE master theses grant&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Published as SNF working paper 10/20.&lt;/p&gt;
