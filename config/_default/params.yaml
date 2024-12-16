@@ -33,7 +33,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: false
+    show_theme_chooser: true
     logo:
       text: "Ole Kristian Dyskeland"
 

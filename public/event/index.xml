@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Ole Kristian Dyskeland</title>
-    <link>https://olekristian.dyskeland.no/event/</link>
-      <atom:link href="https://olekristian.dyskeland.no/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.olekristian.dyskeland.no/event/</link>
+      <atom:link href="https://www.olekristian.dyskeland.no/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://olekristian.dyskeland.no/event/</link>
+      <link>https://www.olekristian.dyskeland.no/event/</link>
     </image>
     
     <item>
       <title>Korleis kan bedrifter ta i bruk prisrobotar for å effektivt sette prisar i marknaden, og kva er konsekvensane for konkurransen?</title>
-      <link>https://olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</link>
+      <link>https://www.olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</link>
       <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
-      <guid>https://olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</guid>
+      <guid>https://www.olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</guid>
       <description>&lt;p&gt;Guest lecture in undergradudate course on applied microeconomics, using idea of paper about capacity constrained collusion to show how the theories of Bertrand, collusion, and the Folk Theorem have practical relevance.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing</title>
-      <link>https://olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</link>
+      <link>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</link>
       <pubDate>Fri, 29 Nov 2024 10:00:00 +0000</pubDate>
-      <guid>https://olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</guid>
+      <guid>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing &amp;ldquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://olekristian.dyskeland.no/event/23geilo/</link>
+      <link>https://www.olekristian.dyskeland.no/event/23geilo/</link>
       <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
-      <guid>https://olekristian.dyskeland.no/event/23geilo/</guid>
+      <guid>https://www.olekristian.dyskeland.no/event/23geilo/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Media competition that enlarges the market size: Effects on pricing behaviour and content creation&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
