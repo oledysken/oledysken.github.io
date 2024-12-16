@@ -1,7 +1,7 @@
 ---
 title: "Are we dissuading international talents from Norwegian academia?"
 authors:
-- ok
+- admin
 - Regina Paul
 
 date: "2023-05-24T00:00:00Z"

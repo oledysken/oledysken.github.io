@@ -3,7 +3,7 @@ title: "Vi trenger (fortsatt) en nasjonal portal for doktorgradskurs"
 authors:
 - Nicolas Gibney
 - Ingvild Bergom Lunde
-- ok
+- admin
 
 date: "2024-05-29T00:00:00Z"
 doi: ""

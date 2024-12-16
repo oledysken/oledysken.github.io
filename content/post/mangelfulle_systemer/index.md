@@ -1,7 +1,7 @@
 ---
 title: "Mangelfulle systemer for konfliktutsatte stipendiater"
 authors:
-- ok
+- admin
 - Guro Lind 
 - Sofie Høgestøl
 - Trine Fossland
