@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedagogy | Ole Kristian Dyskeland</title>
+    <link>https://olekristian.dyskeland.no/tags/pedagogy/</link>
+      <atom:link href="https://olekristian.dyskeland.no/tags/pedagogy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedagogy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <title>Pedagogy</title>
+      <link>https://olekristian.dyskeland.no/tags/pedagogy/</link>
+    </image>
+    
+    <item>
+      <title>Pedagogy training</title>
+      <link>https://olekristian.dyskeland.no/teaching/pedagogy-training/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://olekristian.dyskeland.no/teaching/pedagogy-training/</guid>
+      <description>&lt;h2 id=&#34;pedagogy-training&#34;&gt;Pedagogy training&lt;/h2&gt;
+&lt;p&gt;50h &amp;ldquo;&lt;a href=&#34;https://olekristian.dyskeland.no/uploads/ped1phd24dyskeland.pdf&#34;&gt;pedagogy for PhD students&lt;/a&gt;&amp;rdquo; course at NHH winter 2024.&lt;/p&gt;
+&lt;p&gt;8h &amp;ldquo;pedagogy for master TAs&amp;rdquo; course at NHH 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

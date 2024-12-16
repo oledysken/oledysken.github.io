@@ -27,13 +27,7 @@ Course Responsible: [Øystein Foros](https://www.nhh.no/en/employees/faculty/oys
 
 Course Responsible: [Elisa Casi-Eberhard](https://www.nhh.no/en/employees/faculty/elisa-casi/). Spring 2022 - 2024.
 
-## Educational Podcast Producer 🎙️
 
-For the 2020 and 2021 iterations of the NHH undergraduate microeconomics course I produced the **SAM2-podden** podcast together with [Ada Gjedebo Hetland](https://www.linkedin.com/in/ada-gjedebo-hetland-376058182/).
-
-It is available on [Apple Podcasts](https://podcasts.apple.com/no/podcast/sam2-podden/id1507437397)
-
-and on [Spotify](https://open.spotify.com/show/0Hv62P9Vu0SusvzJ58j7Mg?si=41eb4c0397c2453e). Project started in connection with being teaching assistant for SAM2 (below).
 
 
 ## Master Teaching Assistant
@@ -56,9 +50,4 @@ At Oxford Brookes university.
 
 #### 🇬🇧 [Quantitative Techniques for Economics and Finance 1](https://www.brookes.ac.uk/courses/undergraduate/economics-finance-and-international-business/) (Bachelor/Undergraduate)
 
-## Pedagogy training 
 
-50h "[pedagogy for PhD students](/uploads/ped1phd24dyskeland.pdf)" course at NHH winter 2024.
-
-
-8h "pedagogy for master TAs" course at NHH 2020.
