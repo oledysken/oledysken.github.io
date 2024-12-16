@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Media
 view: article-grid
 ---

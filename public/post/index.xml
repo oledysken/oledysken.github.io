@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Ole Kristian Dyskeland</title>
+    <title>Media | Ole Kristian Dyskeland</title>
     <link>https://olekristian.dyskeland.no/post/</link>
       <atom:link href="https://olekristian.dyskeland.no/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
+    <description>Media</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
-      <title>Blog</title>
+      <title>Media</title>
       <link>https://olekristian.dyskeland.no/post/</link>
     </image>
     
