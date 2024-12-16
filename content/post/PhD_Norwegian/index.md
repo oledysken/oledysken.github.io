@@ -26,10 +26,10 @@ abstract: According to the Action Plan for Norwegian Academic Language, all temp
 summary: According to the Action Plan for Norwegian Academic Language, all temporary employees are required to attend Norwegian courses, and all permanent employees must become proficient in Norwegian within 3 years. Over 400 researchers assess the implications this will have on the sector
 
 tags:
+- Stipendiatorganisasjonene i Norge
 - Internationalisation
 - Norsk
 - Norwegian academia
-- Stipendiatorganisasjonene i Norge
 
 featured: false
 

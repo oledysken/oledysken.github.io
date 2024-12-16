@@ -42,15 +42,16 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Research
       filters:
         folders:
           - publication
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: citation
+      columns: 1
   - block: collection
+    id: workinprogress
     content:
       title: Work in Progress
       text: ""
@@ -61,6 +62,7 @@ sections:
     design:
       view: citation
   - block: collection
+    id: workingpapers
     content:
       title: Working Papers
       text: ""
@@ -71,6 +73,7 @@ sections:
     design:
       view: citation
   - block: collection
+    id: publications
     content:
       title: Publications
       text: ""
@@ -99,7 +102,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 4
       # Filter on criteria
       filters:
         author: ""
@@ -115,7 +118,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: article-grid
+      columns: 1
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]

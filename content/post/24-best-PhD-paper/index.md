@@ -26,8 +26,8 @@ abstract: Ole Kristian Dyskeland has received an award for the best PhD paper re
 summary: Ole Kristian Dyskeland has received an award for the best PhD paper recently presented at a conference. The NHH doctoral student shares the prize with John S. Lilletvedt from UiB.
 
 tags:
+- Award
 - Best PhD paper
-- Award/Prize
 
 
 featured: false

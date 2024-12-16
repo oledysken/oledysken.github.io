@@ -26,10 +26,10 @@ abstract: We believe that requiring proficiency in Norwegian as a prerequisite f
 summary: We believe that requiring proficiency in Norwegian as a prerequisite for university management arenas dissuades young researchers from choosing Norway as their home, says Dyskeland and Paul.
 
 tags:
+- Stipendiatorganisasjonene i Norge
 - Internationalisation
 - International recruitment academia
 - Norwegian academia
-- Stipendiatorganisasjonene i Norge
 
 featured: false
 

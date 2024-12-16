@@ -25,9 +25,9 @@ abstract: I prinsippet mener vi at mer kursing er veldig verdifullt. Det er nok 
 summary: I prinsippet mener vi at mer kursing er veldig verdifullt. Det er nok mange som er godt egnet uten kursing, men med stadig flere stipendiater og da også flere som veileder, mener vi det er bra at dette er noe man nå vurderer, sier Dyskeland.
 
 tags:
+- Stipendiatorganisasjonene i Norge
 - Veilederproblematikk
 - Intervju
-- Stipendiatorganisasjonene i Norge
 
 featured: false
 

@@ -26,8 +26,8 @@ abstract: Mange nye stipendiater har oppstart i disse dager, og mange nye veiled
 summary: Mange nye stipendiater har oppstart i disse dager, og mange nye veiledere skal finne sine roller. Stipendiatorganisasjonen i Norge har noen råd til de nybakte veilederne.
 
 tags:
-- Veiledertips
 - Stipendiatorganisasjonene i Norge
+- Veiledertips
 - Nye stipendiater
 
 featured: false

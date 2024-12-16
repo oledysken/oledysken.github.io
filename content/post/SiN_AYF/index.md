@@ -27,10 +27,10 @@ abstract: Vi håper det fremdeles er rom for unge forskere, fra ulike land, ogs�
 summary: Vi håper det fremdeles er rom for unge forskere, fra ulike land, også etter Ola Borten Moes varslede ekstreme oppussing av universitets- og høgskolesektoren.
 
 tags:
+- Stipendiatorganisasjonene i Norge
 - Unge forskere
 - Ekstrem oppussing
 - Forskningspolitikk
-- Stipendiatorganisasjonene i Norge
 - Akademiet for Yngre Forskere
 
 featured: false

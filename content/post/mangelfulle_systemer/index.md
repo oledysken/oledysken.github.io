@@ -33,9 +33,10 @@ abstract: I sunne organisasjoner sørger man for at alle ansatte opplever tryggh
 summary: I sunne organisasjoner sørger man for at alle ansatte opplever trygghet når de ønsker å si ifra om forhold som ikke fungerer. Slik er det ikke for stipendiater, mener kronikkforfatterne.
 
 tags:
+- Stipendiatorganisasjonene i Norge
 - Varsling
 - Stipendiater
-- Stipendiatorganisasjonene i Norge
+
 
 featured: false
 

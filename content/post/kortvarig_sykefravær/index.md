@@ -25,9 +25,9 @@ abstract: Vi mener det burde vært det gjeldende for alle stipendiater. For oss 
 summary: Vi mener det burde vært det gjeldende for alle stipendiater. For oss sier det mye at noen institusjoner, spesielt de store, velger å vise den respekten og seriøsiteten for de det gjelder, og det etterlater et negativt inntrykk av de andre, sier SiN-leder Ole Kristian Dyskeland
 
 tags:
+- Stipendiatorganisasjonene i Norge
 - Midlertidig ansatt
 - Sykefravær
-- Stipendiatorganisasjonene i Norge
 
 featured: false
 
