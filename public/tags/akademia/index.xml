@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akademia | Ole Kristian Dyskeland</title>
+    <link>https://www.olekristian.dyskeland.no/tags/akademia/</link>
+      <atom:link href="https://www.olekristian.dyskeland.no/tags/akademia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Akademia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <title>Akademia</title>
+      <link>https://www.olekristian.dyskeland.no/tags/akademia/</link>
+    </image>
+    
+    <item>
+      <title>Akademia er mest verdifullt når det ser kritisk på seg selv</title>
+      <link>https://www.olekristian.dyskeland.no/post/kritisk_blikk/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.olekristian.dyskeland.no/post/kritisk_blikk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
