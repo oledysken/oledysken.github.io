@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Incremental Pricing | Ole Kristian Dyskeland</title>
-    <link>http://localhost:1313/tags/incremental-pricing/</link>
-      <atom:link href="http://localhost:1313/tags/incremental-pricing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.olekristian.dyskeland.no/tags/incremental-pricing/</link>
+      <atom:link href="https://www.olekristian.dyskeland.no/tags/incremental-pricing/index.xml" rel="self" type="application/rss+xml" />
     <description>Incremental Pricing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.olekristian.dyskeland.no/media/icon_hu_645fa481986063ef.png</url>
       <title>Incremental Pricing</title>
-      <link>http://localhost:1313/tags/incremental-pricing/</link>
+      <link>https://www.olekristian.dyskeland.no/tags/incremental-pricing/</link>
     </image>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing</title>
-      <link>http://localhost:1313/event/25_swerie/</link>
+      <link>https://www.olekristian.dyskeland.no/event/25_swerie/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/25_swerie/</guid>
+      <guid>https://www.olekristian.dyskeland.no/event/25_swerie/</guid>
       <description>&lt;p&gt;Presentation at SWEdish Researchers in Industrial Economics (SWERIE) Workshop&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing</title>
-      <link>http://localhost:1313/event/24forskerm%C3%B8tet/</link>
+      <link>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</link>
       <pubDate>Fri, 29 Nov 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/24forskerm%C3%B8tet/</guid>
+      <guid>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing &amp;ldquo;.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentasjon | Ole Kristian Dyskeland</title>
-    <link>http://localhost:1313/tags/presentasjon/</link>
-      <atom:link href="http://localhost:1313/tags/presentasjon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.olekristian.dyskeland.no/tags/presentasjon/</link>
+      <atom:link href="https://www.olekristian.dyskeland.no/tags/presentasjon/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentasjon</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.olekristian.dyskeland.no/media/icon_hu_645fa481986063ef.png</url>
       <title>Presentasjon</title>
-      <link>http://localhost:1313/tags/presentasjon/</link>
+      <link>https://www.olekristian.dyskeland.no/tags/presentasjon/</link>
     </image>
     
     <item>
       <title>Forskningsetisk forum 2023: Hvordan sikre god veiledning?</title>
-      <link>http://localhost:1313/post/forskningsetisk-forum/</link>
+      <link>https://www.olekristian.dyskeland.no/post/forskningsetisk-forum/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/forskningsetisk-forum/</guid>
+      <guid>https://www.olekristian.dyskeland.no/post/forskningsetisk-forum/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.forskningsetikk.no/ressurser/forskningsetisk-forum/forskningsetisk-forum-2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oppsummering av presentasjon&lt;/a&gt; jeg ga på forskningsetisk foum 2023.&lt;/p&gt;
 </description>
     </item>

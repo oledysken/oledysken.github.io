@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content Provision | Ole Kristian Dyskeland</title>
-    <link>http://localhost:1313/tags/content-provision/</link>
-      <atom:link href="http://localhost:1313/tags/content-provision/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.olekristian.dyskeland.no/tags/content-provision/</link>
+      <atom:link href="https://www.olekristian.dyskeland.no/tags/content-provision/index.xml" rel="self" type="application/rss+xml" />
     <description>Content Provision</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.olekristian.dyskeland.no/media/icon_hu_645fa481986063ef.png</url>
       <title>Content Provision</title>
-      <link>http://localhost:1313/tags/content-provision/</link>
+      <link>https://www.olekristian.dyskeland.no/tags/content-provision/</link>
     </image>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing</title>
-      <link>http://localhost:1313/event/25_swerie/</link>
+      <link>https://www.olekristian.dyskeland.no/event/25_swerie/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/25_swerie/</guid>
+      <guid>https://www.olekristian.dyskeland.no/event/25_swerie/</guid>
       <description>&lt;p&gt;Presentation at SWEdish Researchers in Industrial Economics (SWERIE) Workshop&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing</title>
-      <link>http://localhost:1313/event/24forskerm%C3%B8tet/</link>
+      <link>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</link>
       <pubDate>Fri, 29 Nov 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/24forskerm%C3%B8tet/</guid>
+      <guid>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing &amp;ldquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Content Acquisition in an Uncovered Market with Endogenous Homing</title>
-      <link>http://localhost:1313/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
+      <link>https://www.olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
+      <guid>https://www.olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media platforms and Content Providers: Endogenous homing and distribution</title>
-      <link>http://localhost:1313/wip/content_creation/</link>
+      <link>https://www.olekristian.dyskeland.no/wip/content_creation/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wip/content_creation/</guid>
+      <guid>https://www.olekristian.dyskeland.no/wip/content_creation/</guid>
       <description></description>
     </item>
     

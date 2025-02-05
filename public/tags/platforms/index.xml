@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Platforms | Ole Kristian Dyskeland</title>
-    <link>http://localhost:1313/tags/platforms/</link>
-      <atom:link href="http://localhost:1313/tags/platforms/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.olekristian.dyskeland.no/tags/platforms/</link>
+      <atom:link href="https://www.olekristian.dyskeland.no/tags/platforms/index.xml" rel="self" type="application/rss+xml" />
     <description>Platforms</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://www.olekristian.dyskeland.no/media/icon_hu_645fa481986063ef.png</url>
       <title>Platforms</title>
-      <link>http://localhost:1313/tags/platforms/</link>
+      <link>https://www.olekristian.dyskeland.no/tags/platforms/</link>
     </image>
     
     <item>
       <title>Content Acquisition in an Uncovered Market with Endogenous Homing</title>
-      <link>http://localhost:1313/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
+      <link>https://www.olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
+      <guid>https://www.olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
       <description></description>
     </item>
     
