@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/event/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.olekristian.dyskeland.no/event/</link>
+      <link>http://localhost:1313/event/</link>
     </image>
     
     <item>
       <title>Brownbag seminar at department</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_04_for-brownbag/</link>
+      <link>http://localhost:1313/event/25_04_for-brownbag/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_04_for-brownbag/</guid>
+      <guid>http://localhost:1313/event/25_04_for-brownbag/</guid>
       <description>&lt;p&gt;Brownbag seminar at Department of Business and Management Science, NHH.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_swerie/</link>
+      <link>http://localhost:1313/event/25_swerie/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_swerie/</guid>
+      <guid>http://localhost:1313/event/25_swerie/</guid>
       <description>&lt;p&gt;Presentation at SWEdish Researchers in Industrial Economics (SWERIE) Workshop&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Korleis kan bedrifter ta i bruk prisrobotar for å effektivt sette prisar i marknaden, og kva er konsekvensane for konkurransen?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</link>
+      <link>http://localhost:1313/event/25_ai-bi-gjesteforelesing/</link>
       <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</guid>
+      <guid>http://localhost:1313/event/25_ai-bi-gjesteforelesing/</guid>
       <description>&lt;p&gt;Guest lecture in undergradudate course on applied microeconomics, using idea of paper about capacity constrained collusion to show how the theories of Bertrand, collusion, and the Folk Theorem have practical relevance.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_02_kt/</link>
+      <link>http://localhost:1313/event/25_02_kt/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_02_kt/</guid>
+      <guid>http://localhost:1313/event/25_02_kt/</guid>
       <description>&lt;p&gt;Presentation of paper on autonomous pricing agents and collusion when there are capacity constraints, at Norwegian Competition Authority.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_02_beccle-ai/</link>
+      <link>http://localhost:1313/event/25_02_beccle-ai/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_02_beccle-ai/</guid>
+      <guid>http://localhost:1313/event/25_02_beccle-ai/</guid>
       <description>&lt;p&gt;Lunch seminar at BECCLE.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing</title>
-      <link>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</link>
+      <link>http://localhost:1313/event/24forskerm%C3%B8tet/</link>
       <pubDate>Fri, 29 Nov 2024 10:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</guid>
+      <guid>http://localhost:1313/event/24forskerm%C3%B8tet/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing &amp;ldquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://www.olekristian.dyskeland.no/event/23geilo/</link>
+      <link>http://localhost:1313/event/23geilo/</link>
       <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/23geilo/</guid>
+      <guid>http://localhost:1313/event/23geilo/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Media competition that enlarges the market size: Effects on pricing behaviour and content creation&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>

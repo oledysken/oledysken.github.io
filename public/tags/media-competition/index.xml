@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media Competition | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/tags/media-competition/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/tags/media-competition/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/media-competition/</link>
+      <atom:link href="http://localhost:1313/tags/media-competition/index.xml" rel="self" type="application/rss+xml" />
     <description>Media Competition</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Media Competition</title>
-      <link>https://www.olekristian.dyskeland.no/tags/media-competition/</link>
+      <link>http://localhost:1313/tags/media-competition/</link>
     </image>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_swerie/</link>
+      <link>http://localhost:1313/event/25_swerie/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_swerie/</guid>
+      <guid>http://localhost:1313/event/25_swerie/</guid>
       <description>&lt;p&gt;Presentation at SWEdish Researchers in Industrial Economics (SWERIE) Workshop&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing</title>
-      <link>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</link>
+      <link>http://localhost:1313/event/24forskerm%C3%B8tet/</link>
       <pubDate>Fri, 29 Nov 2024 10:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</guid>
+      <guid>http://localhost:1313/event/24forskerm%C3%B8tet/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing &amp;ldquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Content Acquisition in an Uncovered Market with Endogenous Homing</title>
-      <link>https://www.olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
+      <link>http://localhost:1313/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
+      <guid>http://localhost:1313/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media platforms and Content Providers: Endogenous homing and distribution</title>
-      <link>https://www.olekristian.dyskeland.no/wip/content_creation/</link>
+      <link>http://localhost:1313/wip/content_creation/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/wip/content_creation/</guid>
+      <guid>http://localhost:1313/wip/content_creation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://www.olekristian.dyskeland.no/publication/23_el/</link>
+      <link>http://localhost:1313/publication/23_el/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/publication/23_el/</guid>
+      <guid>http://localhost:1313/publication/23_el/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://www.olekristian.dyskeland.no/event/23geilo/</link>
+      <link>http://localhost:1313/event/23geilo/</link>
       <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/23geilo/</guid>
+      <guid>http://localhost:1313/event/23geilo/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Media competition that enlarges the market size: Effects on pricing behaviour and content creation&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines</title>
-      <link>https://www.olekristian.dyskeland.no/wp/master-oppg/</link>
+      <link>http://localhost:1313/wp/master-oppg/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/wp/master-oppg/</guid>
+      <guid>http://localhost:1313/wp/master-oppg/</guid>
       <description>&lt;p&gt;NHH master thesis.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://beccle.no/publications-2/master-theses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awarded 2020 BECCLE master theses grant&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Published as SNF working paper 10/20.&lt;/p&gt;

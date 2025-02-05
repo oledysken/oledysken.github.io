@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interview | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/publication_types/interview/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/publication_types/interview/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/interview/</link>
+      <atom:link href="http://localhost:1313/publication_types/interview/index.xml" rel="self" type="application/rss+xml" />
     <description>Interview</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Interview</title>
-      <link>https://www.olekristian.dyskeland.no/publication_types/interview/</link>
+      <link>http://localhost:1313/publication_types/interview/</link>
     </image>
     
     <item>
       <title>Ett universitet skiller seg ut med strengere stipendiat­regel. — Pinlig og smålig</title>
-      <link>https://www.olekristian.dyskeland.no/post/kortvarig_sykefrav%C3%A6r/</link>
+      <link>http://localhost:1313/post/kortvarig_sykefrav%C3%A6r/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/kortvarig_sykefrav%C3%A6r/</guid>
+      <guid>http://localhost:1313/post/kortvarig_sykefrav%C3%A6r/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/ett-universitet-skiller-seg-ut-med-strengere-stipendiatregel-pinlig-og-smalig/826522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intervju i Khrono 1.12.23&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Grande: Ingen menneske­rett å være veileder</title>
-      <link>https://www.olekristian.dyskeland.no/post/veileder_menneskerett_intervju/</link>
+      <link>http://localhost:1313/post/veileder_menneskerett_intervju/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/veileder_menneskerett_intervju/</guid>
+      <guid>http://localhost:1313/post/veileder_menneskerett_intervju/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/grande-ingen-menneskerett-a-vaere-veileder/793836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intervju i Khrono 05.07.23.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

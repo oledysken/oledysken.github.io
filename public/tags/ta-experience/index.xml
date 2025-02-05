@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TA Experience | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/tags/ta-experience/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/tags/ta-experience/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/ta-experience/</link>
+      <atom:link href="http://localhost:1313/tags/ta-experience/index.xml" rel="self" type="application/rss+xml" />
     <description>TA Experience</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>TA Experience</title>
-      <link>https://www.olekristian.dyskeland.no/tags/ta-experience/</link>
+      <link>http://localhost:1313/tags/ta-experience/</link>
     </image>
     
     <item>
       <title>NHH teaching duties</title>
-      <link>https://www.olekristian.dyskeland.no/teaching/ta-nhh/</link>
+      <link>http://localhost:1313/teaching/ta-nhh/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/teaching/ta-nhh/</guid>
+      <guid>http://localhost:1313/teaching/ta-nhh/</guid>
       <description>&lt;h2 id=&#34;phd-teaching-assistant&#34;&gt;PhD Teaching Assistant&lt;/h2&gt;
 &lt;p&gt;At NHH Norwegian School of Economics.&lt;/p&gt;
 &lt;h4 id=&#34;-bus400n-styring-av-større-foretakhttpswwwnhhnoemnerstyring-av-storre-foretak-management-control-master&#34;&gt;🇳🇴 &lt;a href=&#34;https://www.nhh.no/emner/styring-av-storre-foretak/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BUS400N: Styring av Større Foretak&lt;/a&gt; (&lt;em&gt;Management Control&lt;/em&gt;, Master)&lt;/h4&gt;
@@ -40,20 +40,20 @@
     
     <item>
       <title>Pedagogy training</title>
-      <link>https://www.olekristian.dyskeland.no/teaching/pedagogy-training/</link>
+      <link>http://localhost:1313/teaching/pedagogy-training/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/teaching/pedagogy-training/</guid>
+      <guid>http://localhost:1313/teaching/pedagogy-training/</guid>
       <description>&lt;h2 id=&#34;pedagogy-training&#34;&gt;Pedagogy training&lt;/h2&gt;
-&lt;p&gt;50h &amp;ldquo;&lt;a href=&#34;https://www.olekristian.dyskeland.no/uploads/ped1phd24dyskeland.pdf&#34;&gt;pedagogy for PhD students&lt;/a&gt;&amp;rdquo; course at NHH winter 2024.&lt;/p&gt;
+&lt;p&gt;50h &amp;ldquo;&lt;a href=&#34;http://localhost:1313/uploads/ped1phd24dyskeland.pdf&#34;&gt;pedagogy for PhD students&lt;/a&gt;&amp;rdquo; course at NHH winter 2024.&lt;/p&gt;
 &lt;p&gt;8h &amp;ldquo;pedagogy for master TAs&amp;rdquo; course at NHH 2020.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SAM2-podden</title>
-      <link>https://www.olekristian.dyskeland.no/teaching/podcast/</link>
+      <link>http://localhost:1313/teaching/podcast/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/teaching/podcast/</guid>
+      <guid>http://localhost:1313/teaching/podcast/</guid>
       <description>&lt;h2 id=&#34;sam2-podden-&#34;&gt;SAM2-podden 🎙️&lt;/h2&gt;
 &lt;p&gt;For the 2020 and 2021 iterations of the NHH &lt;a href=&#34;https://www.nhh.no/emner/mikrookonomi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;undergraduate microeconomics course (SAM2)&lt;/a&gt; I produced the &lt;strong&gt;SAM2-podden&lt;/strong&gt; podcast together with &lt;a href=&#34;https://www.linkedin.com/in/ada-gjedebo-hetland-376058182/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ada Gjedebo Hetland&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It is available on &lt;a href=&#34;https://podcasts.apple.com/no/podcast/sam2-podden/id1507437397&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apple Podcasts&lt;/a&gt; and on &lt;a href=&#34;https://open.spotify.com/show/0Hv62P9Vu0SusvzJ58j7Mg?si=41eb4c0397c2453e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spotify&lt;/a&gt;.&lt;/p&gt;

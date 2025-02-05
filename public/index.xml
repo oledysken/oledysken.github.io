@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Ole Kristian Dyskeland</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Ole Kristian Dyskeland</title>
-      <link>https://www.olekristian.dyskeland.no/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Brownbag seminar at department</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_04_for-brownbag/</link>
+      <link>http://localhost:1313/event/25_04_for-brownbag/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_04_for-brownbag/</guid>
+      <guid>http://localhost:1313/event/25_04_for-brownbag/</guid>
       <description>&lt;p&gt;Brownbag seminar at Department of Business and Management Science, NHH.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_swerie/</link>
+      <link>http://localhost:1313/event/25_swerie/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_swerie/</guid>
+      <guid>http://localhost:1313/event/25_swerie/</guid>
       <description>&lt;p&gt;Presentation at SWEdish Researchers in Industrial Economics (SWERIE) Workshop&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Korleis kan bedrifter ta i bruk prisrobotar for å effektivt sette prisar i marknaden, og kva er konsekvensane for konkurransen?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</link>
+      <link>http://localhost:1313/event/25_ai-bi-gjesteforelesing/</link>
       <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</guid>
+      <guid>http://localhost:1313/event/25_ai-bi-gjesteforelesing/</guid>
       <description>&lt;p&gt;Guest lecture in undergradudate course on applied microeconomics, using idea of paper about capacity constrained collusion to show how the theories of Bertrand, collusion, and the Folk Theorem have practical relevance.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_02_kt/</link>
+      <link>http://localhost:1313/event/25_02_kt/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_02_kt/</guid>
+      <guid>http://localhost:1313/event/25_02_kt/</guid>
       <description>&lt;p&gt;Presentation of paper on autonomous pricing agents and collusion when there are capacity constraints, at Norwegian Competition Authority.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_02_beccle-ai/</link>
+      <link>http://localhost:1313/event/25_02_beccle-ai/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_02_beccle-ai/</guid>
+      <guid>http://localhost:1313/event/25_02_beccle-ai/</guid>
       <description>&lt;p&gt;Lunch seminar at BECCLE.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Akademia er mest verdifullt når det ser kritisk på seg selv</title>
-      <link>https://www.olekristian.dyskeland.no/post/kritisk_blikk/</link>
+      <link>http://localhost:1313/post/kritisk_blikk/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/kritisk_blikk/</guid>
+      <guid>http://localhost:1313/post/kritisk_blikk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NHH teaching duties</title>
-      <link>https://www.olekristian.dyskeland.no/teaching/ta-nhh/</link>
+      <link>http://localhost:1313/teaching/ta-nhh/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/teaching/ta-nhh/</guid>
+      <guid>http://localhost:1313/teaching/ta-nhh/</guid>
       <description>&lt;h2 id=&#34;phd-teaching-assistant&#34;&gt;PhD Teaching Assistant&lt;/h2&gt;
 &lt;p&gt;At NHH Norwegian School of Economics.&lt;/p&gt;
 &lt;h4 id=&#34;-bus400n-styring-av-større-foretakhttpswwwnhhnoemnerstyring-av-storre-foretak-management-control-master&#34;&gt;🇳🇴 &lt;a href=&#34;https://www.nhh.no/emner/styring-av-storre-foretak/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BUS400N: Styring av Større Foretak&lt;/a&gt; (&lt;em&gt;Management Control&lt;/em&gt;, Master)&lt;/h4&gt;
@@ -93,9 +93,9 @@
     
     <item>
       <title>AMBITIOUS AND POLITICALLY RELEVANT RESEARCH</title>
-      <link>https://www.olekristian.dyskeland.no/post/24-best-phd-paper/</link>
+      <link>http://localhost:1313/post/24-best-phd-paper/</link>
       <pubDate>Wed, 04 Dec 2024 15:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/24-best-phd-paper/</guid>
+      <guid>http://localhost:1313/post/24-best-phd-paper/</guid>
       <description>&lt;p&gt;As contributing author, together with &lt;a href=&#34;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=John&amp;#43;S%C3%A6ten&amp;#43;Lilletvedt&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Lilletvedt&lt;/a&gt;, we won the `Best PhD Award&amp;rsquo; at the 46 Annual Meeting of Norwegian Association of Economists.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s covered by:&lt;/p&gt;
 &lt;ul&gt;
@@ -112,61 +112,61 @@
     
     <item>
       <title>Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing</title>
-      <link>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</link>
+      <link>http://localhost:1313/event/24forskerm%C3%B8tet/</link>
       <pubDate>Fri, 29 Nov 2024 10:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/24forskerm%C3%B8tet/</guid>
+      <guid>http://localhost:1313/event/24forskerm%C3%B8tet/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing &amp;ldquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Content Acquisition in an Uncovered Market with Endogenous Homing</title>
-      <link>https://www.olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
+      <link>http://localhost:1313/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
+      <guid>http://localhost:1313/wip/content-acquisition-in-an-uncovered-market-with-endogenous-homing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media platforms and Content Providers: Endogenous homing and distribution</title>
-      <link>https://www.olekristian.dyskeland.no/wip/content_creation/</link>
+      <link>http://localhost:1313/wip/content_creation/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/wip/content_creation/</guid>
+      <guid>http://localhost:1313/wip/content_creation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vi trenger (fortsatt) en nasjonal portal for doktorgradskurs</title>
-      <link>https://www.olekristian.dyskeland.no/post/nasjoal-kursportal/</link>
+      <link>http://localhost:1313/post/nasjoal-kursportal/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/nasjoal-kursportal/</guid>
+      <guid>http://localhost:1313/post/nasjoal-kursportal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://www.olekristian.dyskeland.no/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedagogy training</title>
-      <link>https://www.olekristian.dyskeland.no/teaching/pedagogy-training/</link>
+      <link>http://localhost:1313/teaching/pedagogy-training/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/teaching/pedagogy-training/</guid>
+      <guid>http://localhost:1313/teaching/pedagogy-training/</guid>
       <description>&lt;h2 id=&#34;pedagogy-training&#34;&gt;Pedagogy training&lt;/h2&gt;
-&lt;p&gt;50h &amp;ldquo;&lt;a href=&#34;https://www.olekristian.dyskeland.no/uploads/ped1phd24dyskeland.pdf&#34;&gt;pedagogy for PhD students&lt;/a&gt;&amp;rdquo; course at NHH winter 2024.&lt;/p&gt;
+&lt;p&gt;50h &amp;ldquo;&lt;a href=&#34;http://localhost:1313/uploads/ped1phd24dyskeland.pdf&#34;&gt;pedagogy for PhD students&lt;/a&gt;&amp;rdquo; course at NHH winter 2024.&lt;/p&gt;
 &lt;p&gt;8h &amp;ldquo;pedagogy for master TAs&amp;rdquo; course at NHH 2020.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Should all PhD candidates learn Norwegian? We are concerned</title>
-      <link>https://www.olekristian.dyskeland.no/post/phd_norwegian/</link>
+      <link>http://localhost:1313/post/phd_norwegian/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/phd_norwegian/</guid>
+      <guid>http://localhost:1313/post/phd_norwegian/</guid>
       <description>&lt;p&gt;Op-ed about forcing PhD candidates and postdocs in Norway to take Norwegian courses.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.forskersonen.no/akademia-arbeid-kronikk/skal-alle-stipendiater-laere-seg-norsk-vi-er-bekymret/2317511?fbclid=IwAR1bYwcJ8BIfn77tRe0JD0KdNSiqv21ABGraOSa05X1_4TtIWwkJRmWb9iE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In Norwegian&lt;/a&gt; and &lt;a href=&#34;https://www.sciencenorway.no/education-employment-language/should-all-phd-candidates-learn-norwegian-we-are-concerned/2318389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in English&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -174,9 +174,9 @@
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>https://www.olekristian.dyskeland.no/wip/ai_project/</link>
+      <link>http://localhost:1313/wip/ai_project/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/wip/ai_project/</guid>
+      <guid>http://localhost:1313/wip/ai_project/</guid>
       <description>&lt;p&gt;&lt;em&gt;Reinforcement learning algorithms have been shown able to collude on supracompetitive prices when playing pricing games. However, the literature suggests that collusion may not be robust to alternative setups of the game. We simulate models where the algorithms are constrained in production capacity. Our findings suggest that capacity constraints may lead to cycling behavior and high prices as a consequence. We do not find evidence that the cycling behavior is due to tacit collusion&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I am a contributing author on this paper. For inquires, contact John.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This paper won the &amp;ldquo;Prize for the best PhD paper 2024&amp;rdquo; at the 46th Annual Meeting of the Norwgeian Association of Economists.&lt;/strong&gt;&lt;/p&gt;
@@ -185,67 +185,67 @@
     
     <item>
       <title>Ett universitet skiller seg ut med strengere stipendiat­regel. — Pinlig og smålig</title>
-      <link>https://www.olekristian.dyskeland.no/post/kortvarig_sykefrav%C3%A6r/</link>
+      <link>http://localhost:1313/post/kortvarig_sykefrav%C3%A6r/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/kortvarig_sykefrav%C3%A6r/</guid>
+      <guid>http://localhost:1313/post/kortvarig_sykefrav%C3%A6r/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/ett-universitet-skiller-seg-ut-med-strengere-stipendiatregel-pinlig-og-smalig/826522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intervju i Khrono 1.12.23&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://www.olekristian.dyskeland.no/publication/23_el/</link>
+      <link>http://localhost:1313/publication/23_el/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/publication/23_el/</guid>
+      <guid>http://localhost:1313/publication/23_el/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>https://www.olekristian.dyskeland.no/project/pandas/</link>
+      <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/project/pandas/</guid>
+      <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://www.olekristian.dyskeland.no/project/pytorch/</link>
+      <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/project/pytorch/</guid>
+      <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://www.olekristian.dyskeland.no/project/scikit/</link>
+      <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/project/scikit/</guid>
+      <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://www.olekristian.dyskeland.no/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forskningsetisk forum 2023: Hvordan sikre god veiledning?</title>
-      <link>https://www.olekristian.dyskeland.no/post/forskningsetisk-forum/</link>
+      <link>http://localhost:1313/post/forskningsetisk-forum/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/forskningsetisk-forum/</guid>
+      <guid>http://localhost:1313/post/forskningsetisk-forum/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.forskningsetikk.no/ressurser/forskningsetisk-forum/forskningsetisk-forum-2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oppsummering av presentasjon&lt;/a&gt; jeg ga på forskningsetisk foum 2023.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tanker til nye veiledere</title>
-      <link>https://www.olekristian.dyskeland.no/post/tanker_nye_veiledere/</link>
+      <link>http://localhost:1313/post/tanker_nye_veiledere/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/tanker_nye_veiledere/</guid>
+      <guid>http://localhost:1313/post/tanker_nye_veiledere/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/tanker-til-nye-veiledere/801587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisert i Khrono 17.8.2023.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;tanker-til-nye-veiledere&#34;&gt;&lt;strong&gt;Tanker til nye veiledere&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Ole Kristian Dyskeland, leder SiN og stipendiat ved Norges Handelshøyskole&lt;/p&gt;
@@ -265,9 +265,9 @@
     
     <item>
       <title>Ikke glem de unge forskerspirene!</title>
-      <link>https://www.olekristian.dyskeland.no/post/sin_ayf/</link>
+      <link>http://localhost:1313/post/sin_ayf/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/sin_ayf/</guid>
+      <guid>http://localhost:1313/post/sin_ayf/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.forskerforum.no/ikke-glem-de-unge-forskerspirene/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisert i Forskerforum 18.7.2023.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;ikke-glem-de-unge-forskerspirene&#34;&gt;Ikke glem de unge forskerspirene!&lt;/h4&gt;
 &lt;p&gt;Av: Nils Hallvard Korsvoll, leder for Akademiet for Yngre Forskere; Ole Kristian Dyskeland, leder for Stipendiatforeningene i Norge (SiN); Friederike Schäfer, kontaktpunkt for UHR i Stipendiatforeningene i Norge (SiN)&lt;/p&gt;
@@ -292,18 +292,18 @@
     
     <item>
       <title>Grande: Ingen menneske­rett å være veileder</title>
-      <link>https://www.olekristian.dyskeland.no/post/veileder_menneskerett_intervju/</link>
+      <link>http://localhost:1313/post/veileder_menneskerett_intervju/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/veileder_menneskerett_intervju/</guid>
+      <guid>http://localhost:1313/post/veileder_menneskerett_intervju/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/grande-ingen-menneskerett-a-vaere-veileder/793836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intervju i Khrono 05.07.23.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mangelfulle systemer for konfliktutsatte stipendiater</title>
-      <link>https://www.olekristian.dyskeland.no/post/mangelfulle_systemer/</link>
+      <link>http://localhost:1313/post/mangelfulle_systemer/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/mangelfulle_systemer/</guid>
+      <guid>http://localhost:1313/post/mangelfulle_systemer/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/mangelfulle-systemer-for-konfliktutsatte-stipendiater/790442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisert i Khrono 22.6.2023.&lt;/a&gt; Også &lt;a href=&#34;https://www.universitetsavisa.no/midlertidig-ansatte-stipendiater/gjor-det-trygt-for-stipendiater-a-si-ifra-om-kritikkverdige-forhold/382255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;i Universitetsavisa den 23.6.23.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;gjør-det-trygt-for-stipendiater-å-si-ifra-om-kritikkverdige-forhold&#34;&gt;&lt;strong&gt;Gjør det trygt for stipendiater å si ifra om kritikkverdige forhold!&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;I sunne organisasjoner sørger man for at alle ansatte opplever trygghet når de ønsker å si ifra om forhold som ikke fungerer.&lt;/strong&gt;&lt;/p&gt;
@@ -342,9 +342,9 @@
     
     <item>
       <title>Are we dissuading international talents from Norwegian academia?</title>
-      <link>https://www.olekristian.dyskeland.no/post/ole_regina/</link>
+      <link>http://localhost:1313/post/ole_regina/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/ole_regina/</guid>
+      <guid>http://localhost:1313/post/ole_regina/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/are-we-dissuading-international-talents-from-norwegian-academia/783447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khrono published&lt;/a&gt; an earlier version than we would have wished.&lt;/p&gt;
 &lt;h4 id=&#34;are-we-dissuading-international-talents-from-norwegian-academia&#34;&gt;&lt;strong&gt;Are we dissuading international talents from Norwegian academia?&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Ole Kristian Dyskeland, President SiN and NHHdoc&lt;/em&gt;&lt;/p&gt;
@@ -364,18 +364,18 @@
     
     <item>
       <title>Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives</title>
-      <link>https://www.olekristian.dyskeland.no/event/23geilo/</link>
+      <link>http://localhost:1313/event/23geilo/</link>
       <pubDate>Thu, 09 Mar 2023 13:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/23geilo/</guid>
+      <guid>http://localhost:1313/event/23geilo/</guid>
       <description>&lt;p&gt;Presented under working title &amp;ldquo;Media competition that enlarges the market size: Effects on pricing behaviour and content creation&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SAM2-podden</title>
-      <link>https://www.olekristian.dyskeland.no/teaching/podcast/</link>
+      <link>http://localhost:1313/teaching/podcast/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/teaching/podcast/</guid>
+      <guid>http://localhost:1313/teaching/podcast/</guid>
       <description>&lt;h2 id=&#34;sam2-podden-&#34;&gt;SAM2-podden 🎙️&lt;/h2&gt;
 &lt;p&gt;For the 2020 and 2021 iterations of the NHH &lt;a href=&#34;https://www.nhh.no/emner/mikrookonomi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;undergraduate microeconomics course (SAM2)&lt;/a&gt; I produced the &lt;strong&gt;SAM2-podden&lt;/strong&gt; podcast together with &lt;a href=&#34;https://www.linkedin.com/in/ada-gjedebo-hetland-376058182/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ada Gjedebo Hetland&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It is available on &lt;a href=&#34;https://podcasts.apple.com/no/podcast/sam2-podden/id1507437397&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apple Podcasts&lt;/a&gt; and on &lt;a href=&#34;https://open.spotify.com/show/0Hv62P9Vu0SusvzJ58j7Mg?si=41eb4c0397c2453e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spotify&lt;/a&gt;.&lt;/p&gt;
@@ -385,9 +385,9 @@
     
     <item>
       <title>A Study in Print: Competition in Prices and Quality Between Newspapers and Magazines</title>
-      <link>https://www.olekristian.dyskeland.no/wp/master-oppg/</link>
+      <link>http://localhost:1313/wp/master-oppg/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/wp/master-oppg/</guid>
+      <guid>http://localhost:1313/wp/master-oppg/</guid>
       <description>&lt;p&gt;NHH master thesis.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://beccle.no/publications-2/master-theses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Awarded 2020 BECCLE master theses grant&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Published as SNF working paper 10/20.&lt;/p&gt;

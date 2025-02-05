@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Award | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/tags/award/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/tags/award/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/award/</link>
+      <atom:link href="http://localhost:1313/tags/award/index.xml" rel="self" type="application/rss+xml" />
     <description>Award</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Award</title>
-      <link>https://www.olekristian.dyskeland.no/tags/award/</link>
+      <link>http://localhost:1313/tags/award/</link>
     </image>
     
     <item>
       <title>AMBITIOUS AND POLITICALLY RELEVANT RESEARCH</title>
-      <link>https://www.olekristian.dyskeland.no/post/24-best-phd-paper/</link>
+      <link>http://localhost:1313/post/24-best-phd-paper/</link>
       <pubDate>Wed, 04 Dec 2024 15:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/24-best-phd-paper/</guid>
+      <guid>http://localhost:1313/post/24-best-phd-paper/</guid>
       <description>&lt;p&gt;As contributing author, together with &lt;a href=&#34;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=John&amp;#43;S%C3%A6ten&amp;#43;Lilletvedt&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Lilletvedt&lt;/a&gt;, we won the `Best PhD Award&amp;rsquo; at the 46 Annual Meeting of Norwegian Association of Economists.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s covered by:&lt;/p&gt;
 &lt;ul&gt;

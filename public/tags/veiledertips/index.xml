@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veiledertips | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/tags/veiledertips/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/tags/veiledertips/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/veiledertips/</link>
+      <atom:link href="http://localhost:1313/tags/veiledertips/index.xml" rel="self" type="application/rss+xml" />
     <description>Veiledertips</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Veiledertips</title>
-      <link>https://www.olekristian.dyskeland.no/tags/veiledertips/</link>
+      <link>http://localhost:1313/tags/veiledertips/</link>
     </image>
     
     <item>
       <title>Tanker til nye veiledere</title>
-      <link>https://www.olekristian.dyskeland.no/post/tanker_nye_veiledere/</link>
+      <link>http://localhost:1313/post/tanker_nye_veiledere/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/tanker_nye_veiledere/</guid>
+      <guid>http://localhost:1313/post/tanker_nye_veiledere/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/tanker-til-nye-veiledere/801587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisert i Khrono 17.8.2023.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;tanker-til-nye-veiledere&#34;&gt;&lt;strong&gt;Tanker til nye veiledere&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Ole Kristian Dyskeland, leder SiN og stipendiat ved Norges Handelshøyskole&lt;/p&gt;

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collusion | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/tags/collusion/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/tags/collusion/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/collusion/</link>
+      <atom:link href="http://localhost:1313/tags/collusion/index.xml" rel="self" type="application/rss+xml" />
     <description>Collusion</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Collusion</title>
-      <link>https://www.olekristian.dyskeland.no/tags/collusion/</link>
+      <link>http://localhost:1313/tags/collusion/</link>
     </image>
     
     <item>
       <title>Korleis kan bedrifter ta i bruk prisrobotar for å effektivt sette prisar i marknaden, og kva er konsekvensane for konkurransen?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</link>
+      <link>http://localhost:1313/event/25_ai-bi-gjesteforelesing/</link>
       <pubDate>Thu, 13 Feb 2025 14:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_ai-bi-gjesteforelesing/</guid>
+      <guid>http://localhost:1313/event/25_ai-bi-gjesteforelesing/</guid>
       <description>&lt;p&gt;Guest lecture in undergradudate course on applied microeconomics, using idea of paper about capacity constrained collusion to show how the theories of Bertrand, collusion, and the Folk Theorem have practical relevance.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_02_kt/</link>
+      <link>http://localhost:1313/event/25_02_kt/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_02_kt/</guid>
+      <guid>http://localhost:1313/event/25_02_kt/</guid>
       <description>&lt;p&gt;Presentation of paper on autonomous pricing agents and collusion when there are capacity constraints, at Norwegian Competition Authority.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Do Capacity Constrained Bots Collude?</title>
-      <link>https://www.olekristian.dyskeland.no/event/25_02_beccle-ai/</link>
+      <link>http://localhost:1313/event/25_02_beccle-ai/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/25_02_beccle-ai/</guid>
+      <guid>http://localhost:1313/event/25_02_beccle-ai/</guid>
       <description>&lt;p&gt;Lunch seminar at BECCLE.&lt;/p&gt;
 </description>
     </item>

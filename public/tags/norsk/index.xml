@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norsk | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/tags/norsk/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/tags/norsk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/norsk/</link>
+      <atom:link href="http://localhost:1313/tags/norsk/index.xml" rel="self" type="application/rss+xml" />
     <description>Norsk</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Norsk</title>
-      <link>https://www.olekristian.dyskeland.no/tags/norsk/</link>
+      <link>http://localhost:1313/tags/norsk/</link>
     </image>
     
     <item>
       <title>Should all PhD candidates learn Norwegian? We are concerned</title>
-      <link>https://www.olekristian.dyskeland.no/post/phd_norwegian/</link>
+      <link>http://localhost:1313/post/phd_norwegian/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/phd_norwegian/</guid>
+      <guid>http://localhost:1313/post/phd_norwegian/</guid>
       <description>&lt;p&gt;Op-ed about forcing PhD candidates and postdocs in Norway to take Norwegian courses.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.forskersonen.no/akademia-arbeid-kronikk/skal-alle-stipendiater-laere-seg-norsk-vi-er-bekymret/2317511?fbclid=IwAR1bYwcJ8BIfn77tRe0JD0KdNSiqv21ABGraOSa05X1_4TtIWwkJRmWb9iE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In Norwegian&lt;/a&gt; and &lt;a href=&#34;https://www.sciencenorway.no/education-employment-language/should-all-phd-candidates-learn-norwegian-we-are-concerned/2318389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in English&lt;/a&gt;.&lt;/p&gt;
 </description>

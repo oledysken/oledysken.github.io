@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Op-Ed | Ole Kristian Dyskeland</title>
-    <link>https://www.olekristian.dyskeland.no/publication_types/op-ed/</link>
-      <atom:link href="https://www.olekristian.dyskeland.no/publication_types/op-ed/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/op-ed/</link>
+      <atom:link href="http://localhost:1313/publication_types/op-ed/index.xml" rel="self" type="application/rss+xml" />
     <description>Op-Ed</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Op-Ed</title>
-      <link>https://www.olekristian.dyskeland.no/publication_types/op-ed/</link>
+      <link>http://localhost:1313/publication_types/op-ed/</link>
     </image>
     
     <item>
       <title>Akademia er mest verdifullt når det ser kritisk på seg selv</title>
-      <link>https://www.olekristian.dyskeland.no/post/kritisk_blikk/</link>
+      <link>http://localhost:1313/post/kritisk_blikk/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/kritisk_blikk/</guid>
+      <guid>http://localhost:1313/post/kritisk_blikk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vi trenger (fortsatt) en nasjonal portal for doktorgradskurs</title>
-      <link>https://www.olekristian.dyskeland.no/post/nasjoal-kursportal/</link>
+      <link>http://localhost:1313/post/nasjoal-kursportal/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/nasjoal-kursportal/</guid>
+      <guid>http://localhost:1313/post/nasjoal-kursportal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Should all PhD candidates learn Norwegian? We are concerned</title>
-      <link>https://www.olekristian.dyskeland.no/post/phd_norwegian/</link>
+      <link>http://localhost:1313/post/phd_norwegian/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/phd_norwegian/</guid>
+      <guid>http://localhost:1313/post/phd_norwegian/</guid>
       <description>&lt;p&gt;Op-ed about forcing PhD candidates and postdocs in Norway to take Norwegian courses.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.forskersonen.no/akademia-arbeid-kronikk/skal-alle-stipendiater-laere-seg-norsk-vi-er-bekymret/2317511?fbclid=IwAR1bYwcJ8BIfn77tRe0JD0KdNSiqv21ABGraOSa05X1_4TtIWwkJRmWb9iE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;In Norwegian&lt;/a&gt; and &lt;a href=&#34;https://www.sciencenorway.no/education-employment-language/should-all-phd-candidates-learn-norwegian-we-are-concerned/2318389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in English&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -40,9 +40,9 @@
     
     <item>
       <title>Tanker til nye veiledere</title>
-      <link>https://www.olekristian.dyskeland.no/post/tanker_nye_veiledere/</link>
+      <link>http://localhost:1313/post/tanker_nye_veiledere/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/tanker_nye_veiledere/</guid>
+      <guid>http://localhost:1313/post/tanker_nye_veiledere/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/tanker-til-nye-veiledere/801587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisert i Khrono 17.8.2023.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;tanker-til-nye-veiledere&#34;&gt;&lt;strong&gt;Tanker til nye veiledere&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Ole Kristian Dyskeland, leder SiN og stipendiat ved Norges Handelshøyskole&lt;/p&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>Ikke glem de unge forskerspirene!</title>
-      <link>https://www.olekristian.dyskeland.no/post/sin_ayf/</link>
+      <link>http://localhost:1313/post/sin_ayf/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/sin_ayf/</guid>
+      <guid>http://localhost:1313/post/sin_ayf/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.forskerforum.no/ikke-glem-de-unge-forskerspirene/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisert i Forskerforum 18.7.2023.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;ikke-glem-de-unge-forskerspirene&#34;&gt;Ikke glem de unge forskerspirene!&lt;/h4&gt;
 &lt;p&gt;Av: Nils Hallvard Korsvoll, leder for Akademiet for Yngre Forskere; Ole Kristian Dyskeland, leder for Stipendiatforeningene i Norge (SiN); Friederike Schäfer, kontaktpunkt for UHR i Stipendiatforeningene i Norge (SiN)&lt;/p&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>Mangelfulle systemer for konfliktutsatte stipendiater</title>
-      <link>https://www.olekristian.dyskeland.no/post/mangelfulle_systemer/</link>
+      <link>http://localhost:1313/post/mangelfulle_systemer/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/mangelfulle_systemer/</guid>
+      <guid>http://localhost:1313/post/mangelfulle_systemer/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/mangelfulle-systemer-for-konfliktutsatte-stipendiater/790442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publisert i Khrono 22.6.2023.&lt;/a&gt; Også &lt;a href=&#34;https://www.universitetsavisa.no/midlertidig-ansatte-stipendiater/gjor-det-trygt-for-stipendiater-a-si-ifra-om-kritikkverdige-forhold/382255&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;i Universitetsavisa den 23.6.23.&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;gjør-det-trygt-for-stipendiater-å-si-ifra-om-kritikkverdige-forhold&#34;&gt;&lt;strong&gt;Gjør det trygt for stipendiater å si ifra om kritikkverdige forhold!&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;I sunne organisasjoner sørger man for at alle ansatte opplever trygghet når de ønsker å si ifra om forhold som ikke fungerer.&lt;/strong&gt;&lt;/p&gt;
@@ -130,9 +130,9 @@
     
     <item>
       <title>Are we dissuading international talents from Norwegian academia?</title>
-      <link>https://www.olekristian.dyskeland.no/post/ole_regina/</link>
+      <link>http://localhost:1313/post/ole_regina/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/post/ole_regina/</guid>
+      <guid>http://localhost:1313/post/ole_regina/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.khrono.no/are-we-dissuading-international-talents-from-norwegian-academia/783447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khrono published&lt;/a&gt; an earlier version than we would have wished.&lt;/p&gt;
 &lt;h4 id=&#34;are-we-dissuading-international-talents-from-norwegian-academia&#34;&gt;&lt;strong&gt;Are we dissuading international talents from Norwegian academia?&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Ole Kristian Dyskeland, President SiN and NHHdoc&lt;/em&gt;&lt;/p&gt;
