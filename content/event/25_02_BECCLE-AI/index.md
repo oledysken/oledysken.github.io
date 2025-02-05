@@ -29,7 +29,7 @@ links:
 
 url_code: ''
 url_pdf: ''
-url_slides: '/slides/240205_beccle_AI.pdf'
+url_slides: '/slides/250205_beccle_AI.pdf'
 url_video: ''
 
 

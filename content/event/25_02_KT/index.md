@@ -29,7 +29,7 @@ links:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: '/slides/250206_KT_AI.pdf'
 url_video: ''
 
 

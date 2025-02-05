@@ -30,7 +30,7 @@ links:
 
 url_code: ''
 url_pdf: ''
-url_slides: '/slides/2303slides_geilo.pdf'
+url_slides: ''
 url_video: ''
 
 
