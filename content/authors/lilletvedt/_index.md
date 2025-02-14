@@ -25,12 +25,11 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://www.uib.no/personer/John.Sæten.Lilletvedt
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:john.lilletvedt@uib.no
+  - icon: at-symbol
+    url: 'mailto:john.lilletvedt@uib.no'
+    label: E-mail Me
+  - icon: academicons/academia
+    url: https://www4.uib.no/en/find-employees/John.Sæten.Lilletvedt
 
 
 # Highlight the author in author lists? (true/false)
