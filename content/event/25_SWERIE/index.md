@@ -30,7 +30,7 @@ links:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: '/slides/250224_swerie.pdf'
 url_video: ''
 
 
