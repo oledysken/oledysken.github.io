@@ -1,5 +1,5 @@
 ---
-title: 'Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing'
+title: 'SWERIE 2025: Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing'
 
 event: SWEdish Researchers in Industrial Economics (SWERIE) Workshop
 event_url: 

@@ -1,5 +1,5 @@
 ---
-title: 'Do Capacity Constrained Bots Collude?'
+title: 'Konkurransetilsynet seminar: Do Capacity Constrained Bots Collude?'
 
 event: Seminar at Norwgeian Competition Authority
 event_url: 

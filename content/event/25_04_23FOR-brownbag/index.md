@@ -1,8 +1,8 @@
 ---
-title: Brownbag seminar at department
+title: 'Brownbag seminar: Title TBA'
 
 event: Brownbag seminar at Department of Business and Management Science, NHH
-event_url: 
+event_url: https://www.nhh.no/kalender/business-and-management-science/2025/brownbag-seminar-ole-kristian-dyskeland/
 
 location: Department of Business and Management Science, NHH
 
@@ -27,8 +27,8 @@ featured: true
 
 links:
 
-url_code: ''
-url_pdf: ''
+url_code: 
+url_pdf: 
 url_slides: ''
 url_video: ''
 
@@ -36,4 +36,4 @@ url_video: ''
 #**Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 ---
 
-Brownbag seminar at Department of Business and Management Science, NHH.
+[Brownbag seminar at Department of Business and Management Science, NHH](https://www.nhh.no/kalender/business-and-management-science/2025/brownbag-seminar-ole-kristian-dyskeland/).

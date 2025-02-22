@@ -1,5 +1,5 @@
 ---
-title: 'Korleis kan bedrifter ta i bruk prisrobotar for å effektivt sette prisar i marknaden, og kva er konsekvensane for konkurransen?'
+title: 'BI Gjesteforelesing: Korleis kan bedrifter ta i bruk prisrobotar for å effektivt sette prisar i marknaden, og kva er konsekvensane for konkurransen?'
 
 event: Gjesteforelesing anvendt mikroøkonomi
 event_url: 

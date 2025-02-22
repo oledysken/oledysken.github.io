@@ -1,5 +1,5 @@
 ---
-title: 'Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives'
+title: 'PhD Midway evaluation: Multihoming and market expansion: Effects on media platforms’ pricing and content creation incentives'
 
 event: Geilo seminar
 event_url: 

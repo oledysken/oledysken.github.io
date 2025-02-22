@@ -1,5 +1,5 @@
 ---
-title: 'Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing'
+title: 'Forskermøtet 2024: Channel Coordination on Exclusive vs. Non-Exclusive  Content under Endogenous Consumer Homing'
 
 event: Forskermøtet 2024
 event_url: 
@@ -25,7 +25,7 @@ tags: [media competition, multihoming, incremental pricing, content provision]
 featured: false
 
 
-links:
+links: 
 
 url_code: ''
 url_pdf: ''

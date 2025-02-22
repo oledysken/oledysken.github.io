@@ -1,5 +1,5 @@
 ---
-title: 'Do Capacity Constrained Bots Collude?'
+title: 'BECCLE Lunch Seminar: Do Capacity Constrained Bots Collude?'
 
 event: Lunch seminar at Bergen Center for Competition Law and Economics (BECCLE)
 event_url: 
