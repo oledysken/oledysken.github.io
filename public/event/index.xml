@@ -5,12 +5,20 @@
     <link>https://www.olekristian.dyskeland.no/event/</link>
       <atom:link href="https://www.olekristian.dyskeland.no/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://www.olekristian.dyskeland.no/event/</link>
     </image>
+    
+    <item>
+      <title>BECCLE conference 2025: Platform Competition with Endogenous Consumer Homing in an Uncovered Market</title>
+      <link>https://www.olekristian.dyskeland.no/event/25-06-0506_beccle/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.olekristian.dyskeland.no/event/25-06-0506_beccle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brownbag seminar: Title TBA</title>

@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Ole Kristian Dyskeland</title>
-    <link>http://localhost:1313/tags/research/</link>
-      <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.olekristian.dyskeland.no/tags/research/</link>
+      <atom:link href="https://www.olekristian.dyskeland.no/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
       <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>https://www.olekristian.dyskeland.no/tags/research/</link>
     </image>
     
     <item>
-      <title>Pedagogy training</title>
-      <link>http://localhost:1313/dras/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dras/</guid>
-      <description>&lt;p&gt;Hello. yesy&lt;/p&gt;
-</description>
+      <title>Advisory</title>
+      <link>https://www.olekristian.dyskeland.no/dras/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.olekristian.dyskeland.no/dras/</guid>
+      <description></description>
     </item>
     
   </channel>
