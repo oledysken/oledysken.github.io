@@ -1,5 +1,5 @@
 ---
-title: "Content Acquisition in an Uncovered Market with Endogenous Homing"
+title: "The Effect on Newspaper Competition and Investigative Journalism of Government Intervention: A Case of Platform Competition with Endogenous Consumer Homing in an Uncovered Market"
 authors:
 - admin
 
@@ -8,7 +8,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-10T00:00:00Z"
+publishDate: "2025-01-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

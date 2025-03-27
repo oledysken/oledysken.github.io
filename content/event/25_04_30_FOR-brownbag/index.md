@@ -11,7 +11,7 @@ summary:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-04-23'
+date: '2025-04-30'
 #date_end: ''
 all_day: true
 
@@ -19,7 +19,7 @@ all_day: true
 publishDate: '2024-01-01T00:00:00Z'
 
 authors: [admin]
-tags: []
+tags: [Media Competition]
 
 # Is this a featured talk? (true/false)
 featured: true
