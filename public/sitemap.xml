@@ -2,15 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.olekristian.dyskeland.no/event/25-06-0506_beccle/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.olekristian.dyskeland.no/tags/content-provision/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.olekristian.dyskeland.no/tags/incremental-pricing/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.olekristian.dyskeland.no/tags/media-competition/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.olekristian.dyskeland.no/tags/multihoming/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.olekristian.dyskeland.no/event/25_06_1213_norio/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.olekristian.dyskeland.no/event/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.olekristian.dyskeland.no/tags/</loc>
+    <lastmod>2025-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.olekristian.dyskeland.no/event/25-06-0506_beccle/</loc>
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -18,23 +38,7 @@
     <lastmod>2025-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.olekristian.dyskeland.no/tags/media-competition/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.olekristian.dyskeland.no/tags/multihoming/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.olekristian.dyskeland.no/event/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.olekristian.dyskeland.no/tags/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.olekristian.dyskeland.no/event/26_06_0203_oligo/</loc>
+    <loc>https://www.olekristian.dyskeland.no/event/25_06_0203_oligo/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

@@ -5,12 +5,21 @@
     <link>https://www.olekristian.dyskeland.no/event/</link>
       <atom:link href="https://www.olekristian.dyskeland.no/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.olekristian.dyskeland.no/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://www.olekristian.dyskeland.no/event/</link>
     </image>
+    
+    <item>
+      <title>NORIO 2025: Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing</title>
+      <link>https://www.olekristian.dyskeland.no/event/25_06_1213_norio/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.olekristian.dyskeland.no/event/25_06_1213_norio/</guid>
+      <description>&lt;p&gt;Presentation at  &lt;a href=&#34;https://www.nhh.no/en/calendar/conferences/2025/norio-2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;14th Nordic workshop on Industrial Organization&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BECCLE conference 2025: Platform Competition with Endogenous Consumer Homing in an Uncovered Market</title>
@@ -23,9 +32,9 @@
     
     <item>
       <title>Oligo workshop 2025: Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing</title>
-      <link>https://www.olekristian.dyskeland.no/event/26_06_0203_oligo/</link>
+      <link>https://www.olekristian.dyskeland.no/event/25_06_0203_oligo/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.olekristian.dyskeland.no/event/26_06_0203_oligo/</guid>
+      <guid>https://www.olekristian.dyskeland.no/event/25_06_0203_oligo/</guid>
       <description>&lt;p&gt;Presentation at  &lt;strong&gt;&lt;a href=&#34;https://www.oligo-society.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;13th Oligo Workshop&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
@@ -40,7 +49,7 @@
     </item>
     
     <item>
-      <title>BECCLE Lunch Seminar: Title TBA</title>
+      <title>BECCLE Lunch Seminar: The Effect on Newspaper Competition and Investigative Journalism of Taxation</title>
       <link>https://www.olekristian.dyskeland.no/event/25_04_23_beccle_lunch/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www.olekristian.dyskeland.no/event/25_04_23_beccle_lunch/</guid>

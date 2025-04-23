@@ -1,5 +1,5 @@
 ---
-title: 'BECCLE Lunch Seminar: Title TBA'
+title: 'BECCLE Lunch Seminar: The Effect on Newspaper Competition and Investigative Journalism of Taxation'
 
 event: Lunch seminar at Bergen Center for Competition Law and Economics (BECCLE)
 
@@ -28,7 +28,7 @@ links:
 
 url_code: 
 url_pdf: 
-url_slides: ''
+url_slides: 'slides/240423_beccle-lunch.pdf'
 url_video: ''
 
 
