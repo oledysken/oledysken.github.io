@@ -1,5 +1,5 @@
 ---
-title: 'BECCLE conference 2025: Platform Competition with Endogenous Consumer Homing in an Uncovered Market'
+title: 'BECCLE conference 2025: Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing'
 
 event: BECCLE Competition Policy Conference 2025
 event_url: "https://beccle.no/event/beccle-competition-policy-conference-2025/"
@@ -37,4 +37,4 @@ url_video: ''
 #**Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 ---
 
-I have three papers at the BECCLE Conference 2025, all three of my work in progress. I will present about two-sided platform competition with endogenous consumer homing in an uncovered market, Malin Arve will present '*Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing*', and John Sæten Lilletvedt will present '*Do Capacity Constrained Bots Collude?*'
+I have two papers at the BECCLE Conference 2025. In addition to my presentation, my co-auhtor John Sæten Lilletvedt will present '*Do Capacity Constrained Bots Collude?*'

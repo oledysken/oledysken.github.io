@@ -40,16 +40,16 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: workingpapers
     content:
-      title: Featured Research
+      title: Working Papers
+      text: ""
       filters:
         folders:
-          - publication
-        featured_only: true
+          - wp
+        exclude_featured: false
     design:
       view: citation
-      columns: 1
   - block: collection
     id: workinprogress
     content:
@@ -61,17 +61,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: workingpapers
-    content:
-      title: Working Papers
-      text: ""
-      filters:
-        folders:
-          - wp
-        exclude_featured: false
-    design:
-      view: citation
+
   - block: collection
     id: publications
     content:
